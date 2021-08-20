@@ -2,12 +2,12 @@
 widget: hero
 headless: true
 weight: 10
-title: Project Docs Template
-hero_media: book.svg
+title: Galapagos Verde 2050 Project Wiki
+hero_media: Logo_Final.png
 design:
   background:
-    gradient_start: '#4bb4e3'
-    gradient_end: '#2b94c3'
+    gradient_start: '#42552C'
+    gradient_end: '#617D40'
     text_color_light: true
 cta:
   url: docs/

@@ -37,3 +37,10 @@ vignettes/*.pdf
 
 # R Environment Variables
 .Renviron
+
+# other things suggested by blogdown:
+.DS_Store
+Thumbs.db
+/public/
+/resources/
+
