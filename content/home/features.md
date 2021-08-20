@@ -4,6 +4,7 @@ headless: true
 weight: 20
 title: Features
 subtitle: Document _anything_ ✨
+draft: true
 feature:
   - icon: book-open
     icon_pack: fas
