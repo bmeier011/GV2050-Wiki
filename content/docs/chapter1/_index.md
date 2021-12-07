@@ -2,53 +2,80 @@
 date: "2018-09-09T00:00:00Z"
 icon: book
 icon_pack: fas
-linktitle: Chapter 1
+linktitle: Manual de Procesos  Protocolos y Tecnologías
 summary: Learn how to use Wowchemy's docs layout for publishing online courses, software
   documentation, and tutorials.
-title: Chapter 1
+title: Manual de Procesos Protocolos y Tecnologías
 type: book
 weight: 1
 ---
 
-## Flexibility
+Descargar version en [PDF](/docs/chapter1/Manual_Vol.pdf)
 
-Document everything!
+                                        Mayo 2021, GV2050 Team
+                                       Patricia Jaramillo Díaz
+`Colaboración`: Luka Negoita, Esme Plunkett, Paúl Mayorga, Rebecca Ditgen, Anna Calle y Liliana Jaramillo
 
-This feature can be used for publishing content such as:
 
-* **Online courses**
-* **Project or software documentation**
-* **Tutorials**
-* **Notes**
+### ***SECCIÓN 1 – INTRODUCCIÓN AL GALÁPAGOS VERDE 2050***
 
-The `courses` folder may be renamed. For example, we can rename it to `docs` for software/project documentation or `tutorials` for creating an online course.
++ #### Bienvenido al proyecto Galápagos Verde 2050
 
-## Delete courses
++ #### Historia del GV2050
 
-**To remove these pages, delete the `courses` folder and see below to delete the associated menu link.**
++ #### Plan GV2050
 
-## Update site menu
+### ***SECCIÓN 2- TRABAJANDO EN CAMPO***
 
-After renaming or deleting the `courses` folder, you may wish to update any `[[main]]` menu links to it by editing your menu configuration at `config/_default/menus.toml`.
+- ####  Preparándose para el trabajo de campo
+  
++ ####  Sembrando con tecnologías ahorradoras de agua
+  
+  - Materiales necesarios para sembrar con estas tecnologías 
+  
++ #### Tecnología Groasis Waterboxx® 
+      
+  - Componentes Waterboxx
+  - Sembrando con la tecnología Groasis Waterboxx
+  - Retiro de Waterboxx
+  
++ #### Tecnología Cocoon
+      
+  - Plantando con la Tecnología Cocoon
+  
++ #### Sembrando con Tecnología Growboxx 
++ #### Tecnología de Hidrogel
++ #### Sembrando plantas control
 
-For example, if you delete this folder, you can remove the following from your menu configuration:
+  - Recopilación de datos y tabletas
+  - Para primer monitoreo 
+  - Instrucciones de monitoreo
+  - Guia para monitoreo y diferentes formas de crecimiento
+  - Actividades de mantenimiento
+  
++ #### Protocolo de análisis de productividad en agricultura
 
-```toml
-[[main]]
-  name = "Courses"
-  url = "courses/"
-  weight = 50
-```
+### ***SECCIÓN 3 – CULTIVO Y CUIDADO DE PLANTAS EN LA FCD***
 
-Or, if you are creating a software documentation site, you can rename the `courses` folder to `docs` and update the associated *Courses* menu configuration to:
+- #### Cuidado de plantas en el laboratorio  GV2050 y vivero
+  
+### ***SECCIÓN 4 – OTROS***
 
-```toml
-[[main]]
-  name = "Docs"
-  url = "docs/"
-  weight = 50
-```
++ #### Automóvil eléctrico GV2050 
+  
+  - Antes de usar
+  - Para almacenar
+  - Otros aspectos a considerar 
+  - Cómo cambiar un neumático
+      
++ #### Gafas de realidad virtual GV2050
+  
+  - Preparación
+      
++ #### Carga/descarga de waypoints de unidad GPS
+  
+  - Cargar coordenadas con etiquetas de código (ID de plantación) a unidad GPS
 
-## Update the docs menu
+### _**SECCIÓN 5 – OTROS RECURSOS**_
 
-If you use the *docs* layout, note that the name of the menu in the front matter should be in the form `[menu.X]` where `X` is the folder name. Hence, if you rename the `courses/example/` folder, you should also rename the menu definitions in the front matter of files within `courses/example/` from `[menu.example]` to `[menu.<NewFolderName>]`.
+### _**REFERENCIAS**_
