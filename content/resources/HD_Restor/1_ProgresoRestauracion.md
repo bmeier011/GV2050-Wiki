@@ -15,4 +15,3 @@ Esta aplicación te muestra el porcentaje de progreso que el proyecto alcanza ac
 </p>
 
 <img src="/resources/hd_restor/Fig3_Restor.png" width='550'/>
->>>>>>> 6de37fc263e97d9816db2f0fa5f2d82d5e6493a1
