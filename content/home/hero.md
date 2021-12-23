@@ -10,12 +10,12 @@ design:
     gradient_end: '#617D40'
     text_color_light: true
 cta:
-  url: docs/
+  url: resources/
   label: Get Started
   icon_pack: fas
   icon: download
 cta_alt:
-  url: docs/
+  url: resources/
   label: View Documentation
 cta_note:
   label: >-

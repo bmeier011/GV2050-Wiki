@@ -9,6 +9,7 @@ output: html_document
 
 #### Preparándose para el trabajo de campo
 
+<p style='text-align:justify;'>
 La mayoría de los voluntarios de GV2050 realizarán viajes de campo para sembrar y monitorear las plantas. Los viajes de campo brindan la oportunidad de conocer Galápagos como ningún turista lo podrá conocer y usted será parte del trabajo crítico que está realizando GV2050. Algunos viajes de campo serán viajes de un día a las tierras altas u otras áreas de Santa Cruz, mientras que otros viajes de campo pueden ser viajes de varios días a Plaza Sur, Baltra, Española o San Cristóbal. En los viajes de campo, es posible que trabaje hasta 12 horas diarias, a menudo bajo el sol ardiente y sin alivio en la sombra. Es posible que le pidan que cargue recipientes de agua de 50 libras, que camine por terreno irregular, que suba pendientes pronunciadas y que trabaje con cactus que perforan la piel. Puede que duerma en carpas sobre roca volcánica o en alojamiento con literas en islas habitadas. Vaya a donde vaya, el trabajo será físicamente agotador y demandante, por lo que será bueno venir preparado mental y físicamente.
 
 Ropa y artículos personales, traiga una muda de ropa para viajes de varios días, ya que se ensuciará bastante.
@@ -21,20 +22,24 @@ Ropa y artículos personales, traiga una muda de ropa para viajes de varios día
 - Bloqueador solar.
 - Artículos de higiene personal, una linterna y cualquier medicamento y suministros médicos que desee, como curitas o loción para músculos adoloridos.
 
+<p style='text-align:justify;'>
+<b>La comida</b> será proporcionada, pero lo más probable es que tenga que traer su propio tupper para usar como pozuelo, vaso y utensilios para comer. Necesitará una botella de agua grande para llevar con usted todos los días, probablemente de 2 litros o más. Una botella de coca cola grande de plástico puede funcionar bien. De lo contrario, necesitará más de 1 botella de agua pequeña. Si trae snacks, no pueden contener semillas. Tampoco deberá comer alimentos con semillas, como tomates, durante las 48 horas previas al viaje. No queremos dejar semillas exóticas en donde vayamos.
 
-**La comida** será proporcionada, pero lo más probable es que tenga que traer su propio tupper para usar como pozuelo, vaso y utensilios para comer. Necesitará una botella de agua grande para llevar con usted todos los días, probablemente de 2 litros o más. Una botella de coca cola grande de plástico puede funcionar bien. De lo contrario, necesitará más de 1 botella de agua pequeña. Si trae snacks, no pueden contener semillas. Tampoco deberá comer alimentos con semillas, como tomates, durante las 48 horas previas al viaje. No queremos dejar semillas exóticas en donde vayamos.
+<p style='text-align:justify;'>
+<b>El equipo para dormir</b> variará dependiendo de si nos alojaremos en carpas o en una edificación. En Baltra, Floreana y San Cristóbal podría ser que nos quedemos en un alojamiento con literas. Para dormir en una carpa, necesitará una almohada de viaje. Si nos quedamos en un alojamiento con literas, deberá traer una sábana o sábanas.
 
-**El equipo para dormir** variará dependiendo de si nos alojaremos en carpas o en una edificación. En Baltra, Floreana y San Cristóbal podría ser que nos quedemos en un alojamiento con literas. Para dormir en una carpa, necesitará una almohada de viaje. Si nos quedamos en un alojamiento con literas, deberá traer una sábana o sábanas.
+<p style='text-align:justify;'>
+<b>Cuarentena</b>. Cuando vayamos a trabajar a otras islas, necesitará empacar su equipo de campo para el viaje en una mochila y tenerlo listo 48 horas antes del viaje. Se pondrá en cuarentena antes y después del viaje durante 2 días. Esto incluirá congelación, así que no empaque nada que no se pueda congelar en su mochila. Puede tener una bolsa pequeña de artículos personales que no se pongan en cuarentena. Esto puede incluir su teléfono, sus medicamentos, binoculares y artículos que necesitará antes de descargar su mochila en el lugar de trabajo.
 
-**Cuarentena**. Cuando vayamos a trabajar a otras islas, necesitará empacar su equipo de campo para el viaje en una mochila y tenerlo listo 48 horas antes del viaje. Se pondrá en cuarentena antes y después del viaje durante 2 días. Esto incluirá congelación, así que no empaque nada que no se pueda congelar en su mochila. Puede tener una bolsa pequeña de artículos personales que no se pongan en cuarentena. Esto puede incluir su teléfono, sus medicamentos, binoculares y artículos que necesitará antes de descargar su mochila en el lugar de trabajo.
-
-**Seguridad**. Mientras estemos en el campo, es importante que trabaje en mantenerse seguro y sin lesiones. No deambule solo ya que es posible perderse en algunos de los lugares en donde trabajamos. No traiga alcohol ni drogas al campo. Sus pertenencias pueden ser registradas al salir y al regresar de la isla. Cada salida de campo será acompañada por un guardaparques, cualquier conducta inapropiada será reportada al parque nacional arriesgando el trabajo a futuro.
+<p style='text-align:justify;'>
+<b>Seguridad</b>. Mientras estemos en el campo, es importante que trabaje en mantenerse seguro y sin lesiones. No deambule solo ya que es posible perderse en algunos de los lugares en donde trabajamos. No traiga alcohol ni drogas al campo. Sus pertenencias pueden ser registradas al salir y al regresar de la isla. Cada salida de campo será acompañada por un guardaparques, cualquier conducta inapropiada será reportada al parque nacional arriesgando el trabajo a futuro.
 
 
 #### Sembrando con tecnologías ahorradoras de agua
-
+<p style='text-align:justify;'>
 Las tecnologías ahorradoras de agua son una herramienta eficiente utilizada en la restauración ecológica y la agricultura sostenible de lugares donde el agua es escasa o costosa, y son una herramienta crítica para el trabajo de Galápagos Verde 2050. En las regiones áridas del archipiélago, el calor y los vientos fuertes generan condiciones de siembra muy áridas y los beneficios obtenidos mediante el uso de estas tecnologías pueden dar a las plantas jóvenes una ventaja en sus primeros meses críticos. En situaciones agrícolas, pueden aumentar la productividad y disminuir la dependencia en suministros de agua o irrigación costosos y poco confiables.
 
+<p style='text-align:justify;'>
 La siguiente sección presentará las cuarto tecnologías ahorradoras de agua utilizadas por GV2050, los métodos y materiales de cercado y el registro de datos en el campo.
 
 ##### MATERIALES NECESARIOS PARA SEMBRAR CON ESTAS TECNOLOGÍAS
@@ -49,6 +54,7 @@ La siguiente sección presentará las cuarto tecnologías ahorradoras de agua ut
 
 #### Tecnología Groasis Waterboxx®
 
+<p style='text-align:justify;'>
 Groasis Waterboxx es una cubeta de polipropileno en forma de dona con una cubierta diseñada para recoger el agua de lluvia y almacenarla dentro de la cubeta (Figura 2). El fondo de la cubeta tiene una cuerda o mecha que alimenta el área alrededor de las raíces de la planta mediante acción capilar (Jaramillo et al 2015; Hoff 2014). Además, Waterboxx evita la evaporación del agua superficial y el crecimiento de malas hierbas alrededor de la planta.
 Las tecnologías Waterboxx se retiran de las plantas una vez que han alcanzado el tamaño suficiente para sobrevivir por sí mismas y pueden ser reutilizada.
 
@@ -281,6 +287,7 @@ se plantan cladodios de Opuntia, no entran en el espacio para la planta, por ell
 
 ### Tecnología Cocoon
 
+<p style='text-align:justify;'>
 La tecnología Cocoon consiste en un recipiente y una tapa biodegradables diseñados para sostener una planta joven durante su primer año crítico, brindándole agua y refugio mientras la estimula a producir un sistema de raíces profundo y saludable. Está compuesta de papel, cartón, nailon y cera (Land Life Company, 2015) y está formada por 3 partes, el recipiente, la tapa y las mechas. Se deja en su lugar para que se degrade alrededor de la planta en crecimiento.
 
 #### Plantando con la Tecnología Cocoon
@@ -312,14 +319,14 @@ La tecnología Cocoon consiste en un recipiente y una tapa biodegradables diseñ
 8. Entierre la caja Cocoon completamente (Figura 16), y coloque piedras alrededor el borde de la caja para evitar que la tapa sea pisada por personas.
 <img/>
 
-
+<p style='text-align:justify;'>
 9. Una vez sembrada la planta con la tecnología, escribir el código asignado para la planta en una placa metálica y asegúrela con el palo de madera.
 
 10. Contrariamente a la tecnología Waterboxx, en este caso se la deja enterrada donde se degradará.
 
 <img src="/resources/chapter1/Fig16_17.jpg" width=550 style="margin-bottom:3rem;"/>
 
-### Tecnología Cocoon
+### Tecnología GrowBox
 
 <p style='margin-top:2rem;'>
 <img src="/resources/chapter1/Fig18.jpg" width=250 style="float: right; margin-top:0rem;"/>
@@ -379,23 +386,29 @@ El hidrogel es una substancia absorbente que se puede utilizar para retener agua
 
 ### Sembrando plantas Control
 
+<p style='text-align:justify;'>
 Como parte del diseño experimental es necesario sembrar plantas control que no usan las tecnologías ahorradoras de agua descritas anteriormente.
 
+<p style='text-align:justify;'>
 1. Excave un pequeño hueco en el que entre la planta, llénelo con 10L de agua y mezcle bien.
 
+<p style='text-align:justify;'>
 2. Siembre la plántula proveniente del vivero quitando la funda de plástico y colocando la plántula en el suelo. Las raíces de la plántula deben colocarse cuidadosamente en posición vertical y no muy compactas en el suelo. La base de la plántula debe fijarse con tierra para asegurar su estabilidad y crecimiento erecto en el tiempo.
 
+<p style='text-align:justify;'>
 3. Una vez sembrada la planta, escribir el código asignado para la planta en una placa metálica y asegúrela con el palo de madera.
 
 #### Recopilación de datos y tabletas
 
 **APLICACIÓN ANDROID**
 
+<p style='text-align:justify;'>
 Usamos una aplicación de Android diseñada específicamente para GV2050, que puede ser encontrada [aquí](www.galapagosverde.com/admin). Se la usa para programar la siembra y el monitoreo de plantas, registrar datos de las especies y sitios de estudio. Es donde todos los datos del proyecto son recopilados y transferidos para ser analizados. Cada miembro del personal, o a veces voluntarios, tienen su propio código de acceso para ingresar a la plataforma y programar el trabajo en cada sitio, junto con su nombre y cargo.
 Conectado a una plataforma virtual, GV2050 tiene una aplicación Android para el registro de datos en el campo. Antes de una salida de campo, el sitio de estudio debe ser puesto en agenda, permitiendo que los datos de las plantas en el sitio puedan ser ingresados sin conexión.
 
 #### Para primer monitoreo
 
+<p style='text-align:justify;'>
 El primer monitoreo usualmente se lo realiza el momento de la siembra, para ello se necesita registrar los datos manualmente. Es importante llenar todos los campos en cada hoja y en orden a pesar de que la fecha y el sitio se repitan (Figura 26). Esto puede evitar confusiones al momento de ingresar los datos al sistema después de la salida. Si es que existen errores, es preferible tachar y volver a escribir el dato antes que borrarlo o corregirlo, esto permitirá que los datos sean correctos y legibles.
 
 <img src="/resources/chapter1/Fig26.jpg" width=700 style="margin-top:2rem;"/>
@@ -403,6 +416,7 @@ El primer monitoreo usualmente se lo realiza el momento de la siembra, para ello
 
 #### Instrucciones de monitoreo
 
+<p style='text-align:justify;'>
 Cuando ingresa datos en el campo, es importante tener un intercambio de información claro y preciso entre las personas que trabajan juntas. Asegúrese de entender claramente lo que alguien le dice y siempre pídale que lo repita si no lo entiende. Ingresar datos con el número de planta incorrecto o ingresar el número incorrecto puede causar problemas irritantes más adelante.
 
 <img src="/resources/chapter1/Fig27.jpg" width=350 style="float: right; margin-top:0rem;"/>
@@ -410,6 +424,8 @@ Cuando ingresa datos en el campo, es importante tener un intercambio de informac
 
 1. Antes de salir al campo, los sitios de estudio planificados para monitorear deben estar puestos en agenda y alguien deberá ingresar a todos las tabletas/celulares que serán usados. Una vez que se encuentre ingresado y desconectado de la conexión a internet **NO oprima el botón Salir** en la esquina superior derecha (Figura 26).
 <img/>
+
+<p style='text-align:justify;'>
 2. La página para cada sitio de estudio se verá similar a la de la Figura 27. Cada una de las casillas corresponde a los códigos escritos con cada planta. Los números pueden ser difíciles de encontrar. Si los números no están claros, deberá reescribirlos o reemplazar la placa metálica. Las casillas verdes son aquellas plantadas con tecnología, las rojas son controles y las de color verde amarillento son las plantas que tuvieron Waterboxx y ya fue removido.
 
 <img src="/resources/chapter1/Fig28.jpg" width=300 style="float: right; margin-top:0rem;"/>
@@ -424,6 +440,7 @@ Cuando ingresa datos en el campo, es importante tener un intercambio de informac
 + **Altura**: La información de cómo medir correctamente la altura de la planta puede ser encontrada en la página 19. No puede ingresar una altura que sea menor que la altura anterior. La medida de la altura más reciente puede ser encontrada en la esquina izquierda (**Ultimo monitoreo**). Si la planta es ahora más corta de lo que se registró anteriormente, ingrese el mismo número registrado anteriormente. Luego, en **Observaciones**, ingrese el valor de la altura medida y escribiendo “Altura real”.
 <img/>
 
+<p style='text-align:justify;'>
 + **Estado**: Seleccione entre Bueno, Regular, Malo y Muerto. Estas son categorías subjetivas y serán determinadas por un miembro experimentado del equipo. Si una planta está muerta, muerto, para altura se debe ingresar la altura anterior. No puede ingresar muerto a menos que encuentre la planta muerta o el sitio donde se plantó la planta. No encontrar una planta no significa que esté muerta. Debe tocar las plantas ligeramente en el tallo o eje principal para revisar si se encuentran vivas o muertas. Si no se encuentra seguro, debe registrar el estatus de la planta en la aplicación como “malo”, para que en el próximo monitoreo se verifique si pudo recuperar.
 
 + **Herbivoría** Si una planta tiene signos evidentes de daño por insectos, seleccione sí.
@@ -443,6 +460,7 @@ Cuando ingresa datos en el campo, es importante tener un intercambio de informac
 
 6. Cualquier planta que se pierda deberá encontrarse al final del día usando GPS. Esto puede ser difícil, así que sea sistemático y observe detenidamente mientras trabaja para evitar tener que buscar al final del día. Cualquier planta que no pueda ser encontrada con el GPS debe dejarse sin monitorear. Si después de 2 años la planta no ha sido encontrada y monitoreada, pude ser cambiada a **“No Monitorear”** en la oficina.
 
+<p style='text-align:justify;'>
 Debemos conservar la batería de los dispositivos de registro. Una vez en el campo, asegúrese de que la tableta no continúa navegando. Apáguelo cuando esté tomando descansos para el almuerzo para ahorrar la energía de la tableta. Es muy importante que el dispositivo de registro tenga suficiente carga para seguir funcionando durante todo el monitoreo. Además, la comunicación clara es importante cuando se trabaja en el campo cuando se trabaja con dos o más personas. Las personas que leen los códigos de las cajas y plantas debe pronunciarlos claramente para evitar confusión y datos incorrectos.
 
 Materiales y Equipamiento
@@ -465,9 +483,10 @@ Los códigos de cada planta pueden ser encontrados en la placa metálica, en el 
 
 Adicionalmente al monitoreo, el mantenimiento y limpieza de los sitios de estudio serán desarrollados simultáneamente:
 
-**Cocoons/Growboxx/Controles** – Limpiar las malas hierbas alrededor de la planta. Si la tapa de Cocoon se ha caído adentro llenar con sustrato la caja para que continúe la.
+<p style='text-align:justify;'>
+<b>Cocoons/Growboxx/Controles</b> – Limpiar las malas hierbas alrededor de la planta. Si la tapa de Cocoon se ha caído adentro llenar con sustrato la caja para que continúe la.
 
-**Waterboxx**- Es normal que las cajas acumulen muchos residuos sobre la tapa. Para limpiarlas es mejor retirar las dos tapas y usar el agua de la caja para limpiarlas. Adicionalmente, retire los dos sifones azules y límpielos. Limpie las plantas/malas hierbas que estén creciendo alrededor de la caja.
+<b>Waterboxx</b>- Es normal que las cajas acumulen muchos residuos sobre la tapa. Para limpiarlas es mejor retirar las dos tapas y usar el agua de la caja para limpiarlas. Adicionalmente, retire los dos sifones azules y límpielos. Limpie las plantas/malas hierbas que estén creciendo alrededor de la caja.
 
 #### Guía para monitoreo y diferentes formas de crecimiento
 
@@ -512,6 +531,7 @@ Estas condiciones son comunes en Galápagos y pueden matar a las plantas. A vece
 
 **Para Cocoon/Growboxx/Hidrogel/plantas control**:
 
+<p style='text-align:justify;'>
 + Limpiar las malas hierbas y/o plantas invasivas circundantes.
 + Si la ubicación de la planta no es clara, colocar piedras alrededor de la planta para señalar la atención hacia la misma.
 + Si la tapa de una caja Cocoon o Growboxx se ha caído adentro, rellenarla y cubrirla con tierra circundante.
@@ -519,6 +539,7 @@ Estas condiciones son comunes en Galápagos y pueden matar a las plantas. A vece
 
 **Para Groasis Waterboxx**:
 
+<p style='text-align:justify;'>
 + Limpiar las malas hierbas y/o plantas invasivas circundantes.
 + Retirar las tapas blanca y negra, y límpielas con el agua de la caja.
 + Limpiar los sifones azules.
@@ -532,13 +553,17 @@ Estas condiciones son comunes en Galápagos y pueden matar a las plantas. A vece
 El crecimiento de la población en el archipiélago de Galápagos en las últimas décadas ha provocado la necesidad permanente de la importación de productos perecederos y no perecederos del continente. Esto crea precios altos para el consumidor y trae productos que fueron cultivados sin regulaciones. Estos productos importados traen consigo el peligro de introducir nuevas plagas y enfermedades. La importación de productos también perturba los mercados locales de cultivos de importancia económica, reduce los precios de los productos locales, lo que genera una pérdida de producción local y crea un excedente de algunos productos (GADMSC, 2009).
 <img/>
 </p>
+
+<p style='text-align:justify;'>
 Según el Informe Galápagos 2013-2014 elaborado por la Dirección del Parque Nacional Galápagos, las nuevas oportunidades para la implementación de la agricultura sostenible o la bioagricultura son temas de discusión inmediata (DPNG et al., 2015).
 
+<p style='text-align:justify;'>
 Debido a que la producción sostenible de alimentos es importante en el archipiélago, especialmente en las islas pobladas, el Proyecto Galápagos Verde 2050 busca formas alternativas de utilizar los escasos recursos hídricos para la agricultura. Al ayudar a crear una producción de alimentos más sostenible y conservar los suministros de agua dulce, también contribuimos al bienestar de la población local. Estamos utilizando la tecnología Groasis Waterboxx para la restauración de ecosistemas degradados y para mejorar la producción agrícola (Jaramillo 2015).
 En 2013, llevamos a cabo un proyecto piloto utilizando Groasis Waterboxx. Este proyecto monitoreó el crecimiento de especies en la parte alta de la Isla Santa Cruz y se enfocó exclusivamente en la funcionalidad del Groasis Waterboxx. El propósito del proyecto fue evaluar el uso del Groasis Waterboxx para aumentar la productividad y la rentabilidad (Jaramillo et al., 2013).
 
 **MEDICIÓN DE PRODUCTIVIDAD**
 
+<p style='text-align:justify;'>
 El proceso de análisis de la productividad en la agricultura consiste en medir y registrar la altura de las plantas y el tamaño y peso de los frutos, como pimientos o tomates, en cada planta. Comparamos los datos de plantas cultivadas con Waterboxx con aquellas cultivadas como plantas de control sin Waterboxx.
 
 **MATERIALES Y EQUIPO**
