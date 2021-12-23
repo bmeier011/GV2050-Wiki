@@ -1,0 +1,20 @@
+---
+title: "start"
+author: "Anna Calle"
+date: "11/30/2021"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+Run this R Markdown document every time you open the R project
+
+```{r}
+library(blogdown)
+blogdown::serve_site()
+blogdown::stop_server()
+```
+
+

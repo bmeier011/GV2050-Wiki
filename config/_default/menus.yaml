@@ -7,6 +7,15 @@ main:
   - name: Home
     url: /
     weight: 10
-  - name: Documentation
-    url: docs/
-    weight: 20
+  - name: Projects
+    url: projects/
+    weight: 10
+  - name: Manuals
+    url: manuals/
+    weight: 30
+  - name: Resources
+    url: resources/
+    weight: 40
+  - name: Tools
+    url: tools/
+    weight: 50
