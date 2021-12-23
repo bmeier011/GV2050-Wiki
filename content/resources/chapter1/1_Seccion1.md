@@ -62,7 +62,7 @@ El proyecto se encuentra actualmente en la fase 2 y continúa trabajando en los 
 El proyecto cuenta actualmente con más de 15 jardines ubicados en los municipios de Santa Cruz, Floreana y el Aeropuerto Ecológico de Baltra, contribuyendo a la recuperación de ecosistemas y su capacidad para generar servicios ecológicos como el aumento de polinización. Estos jardines también mejoran el disfrute general del entorno para la población local y brindan oportunidades para educar a la gente local sobre la flora endémica y nativa del archipiélago. Dentro de esta segunda fase también se han creado jardines ecológicos en las localidades de San Cristóbal e Isabela.
 La restauración se ha ampliado a las islas Isabela y Española. En Isabela, ha comenzado la restauración de la subespecie endémica amenazada Galvezia leucantha sp. leucantha, y en Española, el proyecto está trabajando en restaurar la población de la especie clave Opuntia megasperma var. orientalis. En el componente de agricultura sostenible, se continúa con el trabajo de la fase 1 en las fincas de Santa Cruz y Floreana. En base a los resultados satisfactorios obtenidos hasta ahora, el proyecto planea aumentar la participación de los agricultores en las islas habitadas.
 
-{{< figure src="/docs/chapter1/Fig1.jpg" title="Figura1 - Islas donde GV2050 se encuentra trabajando en Fase 2" >}}
+{{< figure src="/resources/chapter1/Fig1.jpg" title="Figura1 - Islas donde GV2050 se encuentra trabajando en Fase 2" >}}
 
 
 ##### FASE 3: 2027 – 2050

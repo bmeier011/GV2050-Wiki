@@ -52,7 +52,7 @@ La siguiente sección presentará las cuarto tecnologías ahorradoras de agua ut
 Groasis Waterboxx es una cubeta de polipropileno en forma de dona con una cubierta diseñada para recoger el agua de lluvia y almacenarla dentro de la cubeta (Figura 2). El fondo de la cubeta tiene una cuerda o mecha que alimenta el área alrededor de las raíces de la planta mediante acción capilar (Jaramillo et al 2015; Hoff 2014). Además, Waterboxx evita la evaporación del agua superficial y el crecimiento de malas hierbas alrededor de la planta.
 Las tecnologías Waterboxx se retiran de las plantas una vez que han alcanzado el tamaño suficiente para sobrevivir por sí mismas y pueden ser reutilizada.
 
-{{< figure src="/docs/chapter1/Fig2.jpg" title="Figura 2 - Tecnología Waterboxx instalada con una planta Lecocarpus" >}}
+{{< figure src="/resources/chapter1/Fig2.jpg" title="Figura 2 - Tecnología Waterboxx instalada con una planta Lecocarpus" >}}
 
 ##### Componentes Waterboxx
 
@@ -66,7 +66,7 @@ Las tecnologías Waterboxx se retiran de las plantas una vez que han alcanzado e
           margin-left:0em;
           margin-top:0em;
           display: inline-block;'>
-<img src="/docs/chapter1/tabla1_1.jpg"; 
+<img src="/resources/chapter1/tabla1_1.jpg"; 
      width='200';
      style='float:right; 
             margin-bottom:0rem; 
@@ -87,7 +87,7 @@ ______________________________________________________________________________
           margin-left:0em;
           margin-top:0em;
           display: inline-block;'>
-<img src="/docs/chapter1/tabla1_2.jpg"; 
+<img src="/resources/chapter1/tabla1_2.jpg"; 
      width='200'; 
      style='float:right; 
             margin-bottom:0rem; 
@@ -109,7 +109,7 @@ ______________________________________________________________________________
           margin-left:0em;
           margin-top:0em;
           display: inline-block;'>
-<img src="/docs/chapter1/tabla1_3.jpg"; 
+<img src="/resources/chapter1/tabla1_3.jpg"; 
      width='200'; 
      style='float:right; 
             margin-bottom:0rem; 
@@ -130,7 +130,7 @@ ______________________________________________________________________________
           margin-left:0em;
           margin-top:0em;
           display: inline-block;'>
-<img src="/docs/chapter1/tabla1_4.jpg"; 
+<img src="/resources/chapter1/tabla1_4.jpg"; 
      width='200'; 
      style='float:right; 
             margin-bottom:0rem; 
@@ -152,7 +152,7 @@ ______________________________________________________________________________
           margin-left:0em;
           margin-top:0em;
           display: inline-block;'>
-<img src="/docs/chapter1/tabla1_5.jpg"; 
+<img src="/resources/chapter1/tabla1_5.jpg"; 
      width='200'; 
      style='float:right; 
             margin-bottom:0rem; 
@@ -174,7 +174,7 @@ ______________________________________________________________________________
           margin-left:0em;
           margin-top:0em;
           display: inline-block;'>
-<img src="/docs/chapter1/tabla1_6.jpg"; 
+<img src="/resources/chapter1/tabla1_6.jpg"; 
      width='200'; 
      style='float:right; 
             margin-bottom:0rem; 
@@ -200,7 +200,7 @@ figure figcaption {
 }
 <p style='text-align:justify; padding:1em; margin-left:0em; display: inline-block'>
 <figure>
- <img src='/docs/chapter1/Fig3.jpg'  width=240 style='float: right; margin-top:0rem;' />
+ <img src='/resources/chapter1/Fig3.jpg'  width=240 style='float: right; margin-top:0rem;' />
  <figcaption position:'absolute'>Figura 3 - Hueco listo para colocar Waterboxx, humedecido con 10L de agua</figcaption>
 </figure>
 
@@ -210,18 +210,18 @@ figure figcaption {
 
 
 <p style='text-align:justify; padding:1em; margin-left:0em; margin-top:0em; display: inline-block'>
-<img src="/docs/chapter1/Fig4.jpg"" width=240 style='float: left; margin-top:0rem;'/>
+<img src="/resources/chapter1/Fig4.jpg"" width=240 style='float: left; margin-top:0rem;'/>
 3. Siembre la plántula proveniente del vivero quitando la cubierta de plástico en la parte inferior de la planta y colocando la plántula en el suelo. Las raíces de la plántula deben colocarse cuidadosamente en posición vertical. La base de la plántula debe fijarse con tierra para asegurar su estabilidad y crecimiento erecto en el tiempo (Figura 4).
 </p>
 
 <p style='text-align:justify; padding:1em; margin-left:0em; margin-top:0em; display: inline-block'>
-<img src="/docs/chapter1/Fig5.jpg" width=240 style="float: right; margin-top:0rem;" />
+<img src="/resources/chapter1/Fig5.jpg" width=240 style="float: right; margin-top:0rem;" />
 4. Coloque la placa de evaporación blanca en el suelo húmedo alrededor de la base de la planta (Figura 5). La placa tiene una pequeña figura de una brújula, su dirección tiene que estar alineada con el norte. Cuando
 se plantan cladodios de Opuntia, no entran en el espacio para la planta, por ello se deben doblar las dos pestañas del medio para crear un espacio más grande donde entre el cladodio. Esta placa tiene que estar cubierta completamente con una capa de tierra.
 </p>
 
 <p style='text-align:justify; padding:0em; margin-left:0em; display: inline-block'>
-<img src="/docs/chapter1/Fig6.jpg" width=240 style="float: left; margin-top:0rem;">
+<img src="/resources/chapter1/Fig6.jpg" width=240 style="float: left; margin-top:0rem;">
 5. Coloque la caja verde inferior del Waterboxx sobre la planta. Debe colocarse firmemente dentro del suelo o sobre él. Acomode el extremo de la mecha debajo de la placa de plástico blanco para que haya un movimiento directo de agua hacia las raíces de las plantas (Figura 6). Coloque la caja delicadamente sobre la planta y asegúrese de no dañar la planta.
 
 6. El agujero en el borde superior de la caja debe apuntar hacia el norte. La planta no debe estar en el centro de la caja, sino en una de las aberturas redondas para que tenga espacio para crecer.
@@ -230,24 +230,24 @@ se plantan cladodios de Opuntia, no entran en el espacio para la planta, por ell
 </p>
 
 <p style='text-align:justify; padding:0em; margin-left:0em; display: inline-block'>
-<img src="/docs/chapter1/Fig7.jpg" width=240 style="float: right; margin-top:0rem;">
+<img src="/resources/chapter1/Fig7.jpg" width=240 style="float: right; margin-top:0rem;">
 8. Llene la caja con agua hasta el borde interno (~20L) (Figura 7).
 </p>
 
 <p style='text-align:justify; padding:0em; margin-left:0em; display: inline-block'>
-<img src="/docs/chapter1/Fig8.jpg" width=240 style="float: left; margin-top:0rem;">
+<img src="/resources/chapter1/Fig8.jpg" width=240 style="float: left; margin-top:0rem;">
 9. Coloque la placa negra anti-evaporación sobre el agua y asiéntela sobre el borde pequeño dentro de la caja. Las pestañas de la placa anti-evaporación deben encajar correctamente con el orificio correspondiente en el borde de la base, orientadas hacia el norte (Figura 8).
 </p>
 
 <p style='text-align:justify; padding:0em; margin-left:0em; display: inline-block'>
-<img src="/docs/chapter1/Fig9.jpg" width=300 style="float: right; margin-top:0rem;">
+<img src="/resources/chapter1/Fig9.jpg" width=300 style="float: right; margin-top:0rem;">
 10. Colocar la tapa colectora blanca asegurándose que el hueco esté alienado con el hueco de la tapa negra, ambas orientadas hacia el norte. Asegurarse que la tapa haya encajado en el lugar correctamente, incluyendo las pequeñas pestañas de la caja verde que encajan en las hendiduras de la tapa blanca (Figura 9).
 
 11. Insertar los sifones, asegurándose que hacen “click” en la posición correcta (Figura 9), y la tapa pequeña azul sobre el agujero, girándola hasta que se asegure.
 </p>
 
 <p style='text-align:justify; padding:0em; margin-left:0em; display: inline-block'>
-<img src="/docs/chapter1/Fig10.jpg" width=300 style="float: left; margin-top:0rem;">
+<img src="/resources/chapter1/Fig10.jpg" width=300 style="float: left; margin-top:0rem;">
 12. A veces, el Waterboxx es usado para dos plantas, en este caso, el proceso de siembra es el mismo, excepto por que debe haber dos mechas en la caja para colocarlas cerca de las raíces de cada planta (Figura 10).
 
 13. Una vez sembrada la planta con la tecnología escribir el código asignado para esa planta en la tapa blanca del Waterboxx con un lápiz.
@@ -258,7 +258,7 @@ se plantan cladodios de Opuntia, no entran en el espacio para la planta, por ell
 
 
 <p style='margin-top:2rem;'>
-<img src="/docs/chapter1/Fig11.jpg" width=380 style="float: right; margin-top:0rem; margin-bottom:0rem; padding:0em;"/>
+<img src="/resources/chapter1/Fig11.jpg" width=380 style="float: right; margin-top:0rem; margin-bottom:0rem; padding:0em;"/>
 
 1. Retire las dos tapas (blanca y negra) separadamente (Figura 11.) Así será más fácil de remover los sifones. A veces la planta es más grande, por lo que el procedimiento tiene que ser realizado con mucho cuidado para no generar daños en la planta.
 <img/>
@@ -270,7 +270,7 @@ se plantan cladodios de Opuntia, no entran en el espacio para la planta, por ell
 </p>
 
 
-<img src="/docs/chapter1/Fig12.jpg" width=250 style="float: right; margin-top:0rem;"/>
+<img src="/resources/chapter1/Fig12.jpg" width=250 style="float: right; margin-top:0rem;"/>
 
 3. Si se plantaron dos plantas en una sola caja Waterboxx, una de ellas debe trasplantarse a otro lugar ya que ahora son demasiado grandes para crecer tan cerca la una de la otra (Figura 12).
 
@@ -286,7 +286,7 @@ La tecnología Cocoon consiste en un recipiente y una tapa biodegradables diseñ
 #### Plantando con la Tecnología Cocoon
 
 <p style='margin-top:2rem;'>
-<img src="/docs/chapter1/Fig13.jpg" width=250 style="float: right; margin-top:0rem;"/>
+<img src="/resources/chapter1/Fig13.jpg" width=250 style="float: right; margin-top:0rem;"/>
 
 1. Excave un hueco lo suficientemente ancho y profundo para que la caja Cocoon quede completamente enterrada. Agregue 10 L en el hueco excavado. A veces, las cajas Cocoon son sembradas con hidrogel, si este es el caso, se usará hidrogel en vez de agua. Las instrucciones para el uso de hidrogel pueden ser encontradas en la página 15.
 
@@ -294,7 +294,7 @@ La tecnología Cocoon consiste en un recipiente y una tapa biodegradables diseñ
 <img/>
 </p>
 
-<img src="/docs/chapter1/Fig14.jpg" width=250 style="float: right; margin-top:0rem;"/>
+<img src="/resources/chapter1/Fig14.jpg" width=250 style="float: right; margin-top:0rem;"/>
 
 3. Siembre la planta en la cima del montículo para que cuando se coloque la caja Cocoon, la planta se encuentre en la parte superior de la sección de la mitad.
 
@@ -303,7 +303,7 @@ La tecnología Cocoon consiste en un recipiente y una tapa biodegradables diseñ
 5. Agregue tierra adicional en el hueco de la mitad hasta que esté nivelado con el borde y la planta se encuentre sobresaliendo (Figura 14). Llene la caja con agua hasta la línea indicada.
 </p>
 
-<img src="/docs/chapter1/Fig15.jpg" width=250 style="float: right; margin-top:0rem;"/>
+<img src="/resources/chapter1/Fig15.jpg" width=250 style="float: right; margin-top:0rem;"/>
 
 6. Ponga la tapa sobre la caja (Figura 15), a veces el agua hace que la caja pierda su forma, por ello puede ser útil usar piedras para mantener la forma de la caja.
 
@@ -317,12 +317,12 @@ La tecnología Cocoon consiste en un recipiente y una tapa biodegradables diseñ
 
 10. Contrariamente a la tecnología Waterboxx, en este caso se la deja enterrada donde se degradará.
 
-<img src="/docs/chapter1/Fig16_17.jpg" width=550 style="margin-bottom:3rem;"/>
+<img src="/resources/chapter1/Fig16_17.jpg" width=550 style="margin-bottom:3rem;"/>
 
 ### Tecnología Cocoon
 
 <p style='margin-top:2rem;'>
-<img src="/docs/chapter1/Fig18.jpg" width=250 style="float: right; margin-top:0rem;"/>
+<img src="/resources/chapter1/Fig18.jpg" width=250 style="float: right; margin-top:0rem;"/>
 
 La tecnología Growboxx (Figura 18) también producida por Groasis, fue introducida al proyecto en octubre del 2020. Es una caja cuadrada con un hueco en la mitad, fabricado con pulpa de papel reciclado y puede ser usado para sembrar una sola vez. Se la coloca alrededor de un árbol joven, pero tiene 4 pequeños agujeros en la tapa donde se pueden colocar tierra y semillas para germinarlas hidropónicamente en el agua almacenada en la Growboxx.
 </p>
@@ -330,7 +330,7 @@ La tecnología Growboxx (Figura 18) también producida por Groasis, fue introduc
 #### Sembrando con Tecnología Growboxx
 
 <p style='margin-top:2rem;'>
-<img src="/docs/chapter1/Fig19.jpg" width=250 style="float: right; margin-top:0rem;"/>
+<img src="/resources/chapter1/Fig19.jpg" width=250 style="float: right; margin-top:0rem;"/>
 
 1. Excave un hueco de 50cm2 por 18cm de profundidad, llénelo con 10L de agua y mézclelo bien. A veces las cajas Growboxx son plantadas con hidrogel, si este es el caso, el hidrogel es usad en vez de agua. Las instrucciones para el hidrogel pueden ser encontradas en la página 14.
 2. Plante el individuo en el centro del hueco.
@@ -338,7 +338,7 @@ La tecnología Growboxx (Figura 18) también producida por Groasis, fue introduc
 </p>
 
 <p style='margin-top:0rem;'>
-<img src="/docs/chapter1/Fig20.jpg" width=250 style="float: right; margin-top:0rem;"/>
+<img src="/resources/chapter1/Fig20.jpg" width=250 style="float: right; margin-top:0rem;"/>
 
 4. Coloque la base del Growboxx alrededor de la planta e inserte el protector
 biodegradable Growsafe alrededor de la planta en el hueco central (Figura 20).
@@ -346,20 +346,20 @@ biodegradable Growsafe alrededor de la planta en el hueco central (Figura 20).
 </p>
 
 <p style='margin-top:0rem;'>
-<img src="/docs/chapter1/Fig21.jpg" width=250 style="float: right; margin-top:0rem;"/>
+<img src="/resources/chapter1/Fig21.jpg" width=250 style="float: right; margin-top:0rem;"/>
 
 6. Coloque la pequeña bola de arcilla que viene con la caja en el agujero de latapa (Figura 23).
 7. Rellene cualquier espacio que quede en los lados de la caja con tierra, de modo que solo la tapa sea visible, asegurándose de llenar los agujeros de las semillas con tierra (Figura 22).
 8. Una vez sembrada la planta con la tecnología, escribir el código asignado para la planta en una placa metálica y asegúrela con el palo de madera.
 </p>
 
-<img src="/docs/chapter1/Fig22_23.jpg" width=400 style="margin-top:2rem;"/>
+<img src="/resources/chapter1/Fig22_23.jpg" width=400 style="margin-top:2rem;"/>
 <img/>
 
 ### Tecnología de Hidrogel
 
 <p style='margin-top:1rem;'>
-<img src="/docs/chapter1/Fig24.jpg" width=250 style="float: right; margin-top:0rem;"/>
+<img src="/resources/chapter1/Fig24.jpg" width=250 style="float: right; margin-top:0rem;"/>
 
 El hidrogel es una substancia absorbente que se puede utilizar para retener agua alrededor de las raíces de las plantas. Los productos de hidrogel están compuestos por un grupo de materiales poliméricos (poliacrilato de potasio) cuya estructura hidrofílica los hace capaces de retener grandes cantidades de agua. Puede contener hasta 1000 veces su volumen en agua y liberará lentamente el agua al sistema de raíces a medida que se seque el suelo (Figura 24).
 </p>
@@ -371,7 +371,7 @@ El hidrogel es una substancia absorbente que se puede utilizar para retener agua
 3. Siembre la planta asegurándose que la tierra mezclada con hidrogel rodea las raíces de la planta.
 
 <p style='margin-top:1rem;'>
-<img src="/docs/chapter1/Fig25.jpg" width=250 style="float: right; margin-top:0rem;"/>
+<img src="/resources/chapter1/Fig25.jpg" width=250 style="float: right; margin-top:0rem;"/>
 
 4. Asegúrese que la capa más superficial solo sea tierra y que el hidrogel no se vea en la superficie ya que la luz solar descompondrá al hidrogel debido a los rayos ultravioleta.
 5. Una vez sembrada la planta con la tecnología, escribir el código asignado para la planta en una placa metálica y asegúrela con el palo de madera.
@@ -398,28 +398,28 @@ Conectado a una plataforma virtual, GV2050 tiene una aplicación Android para el
 
 El primer monitoreo usualmente se lo realiza el momento de la siembra, para ello se necesita registrar los datos manualmente. Es importante llenar todos los campos en cada hoja y en orden a pesar de que la fecha y el sitio se repitan (Figura 26). Esto puede evitar confusiones al momento de ingresar los datos al sistema después de la salida. Si es que existen errores, es preferible tachar y volver a escribir el dato antes que borrarlo o corregirlo, esto permitirá que los datos sean correctos y legibles.
 
-<img src="/docs/chapter1/Fig26.jpg" width=700 style="margin-top:2rem;"/>
+<img src="/resources/chapter1/Fig26.jpg" width=700 style="margin-top:2rem;"/>
 <img/>
 
 #### Instrucciones de monitoreo
 
 Cuando ingresa datos en el campo, es importante tener un intercambio de información claro y preciso entre las personas que trabajan juntas. Asegúrese de entender claramente lo que alguien le dice y siempre pídale que lo repita si no lo entiende. Ingresar datos con el número de planta incorrecto o ingresar el número incorrecto puede causar problemas irritantes más adelante.
 
-<img src="/docs/chapter1/Fig27.jpg" width=350 style="float: right; margin-top:0rem;"/>
+<img src="/resources/chapter1/Fig27.jpg" width=350 style="float: right; margin-top:0rem;"/>
 
 
 1. Antes de salir al campo, los sitios de estudio planificados para monitorear deben estar puestos en agenda y alguien deberá ingresar a todos las tabletas/celulares que serán usados. Una vez que se encuentre ingresado y desconectado de la conexión a internet **NO oprima el botón Salir** en la esquina superior derecha (Figura 26).
 <img/>
 2. La página para cada sitio de estudio se verá similar a la de la Figura 27. Cada una de las casillas corresponde a los códigos escritos con cada planta. Los números pueden ser difíciles de encontrar. Si los números no están claros, deberá reescribirlos o reemplazar la placa metálica. Las casillas verdes son aquellas plantadas con tecnología, las rojas son controles y las de color verde amarillento son las plantas que tuvieron Waterboxx y ya fue removido.
 
-<img src="/docs/chapter1/Fig28.jpg" width=300 style="float: right; margin-top:0rem;"/>
+<img src="/resources/chapter1/Fig28.jpg" width=300 style="float: right; margin-top:0rem;"/>
 
 3. **NO presione el botón Enviar Monitoreo** en esta página. Esto cerrará el programa y no será posible utilizar la tableta en el campo. Tendrá que recurrir a métodos tediosos para registrar los datos. Nadie quiere eso.
 4. En la pantalla de registro de datos (Figura 28) para cada planta, usted debe ingresar los siguientes datos:
 + **Especie**: Verifique que sea la especie de la planta correcta. Si no es así, vuelva al paso anterior, ya que probablemente seleccionó el número incorrecto.
 <img/>
 
-<img src="/docs/chapter1/Fig29.jpg" width=300 style="float: right; margin-top:0rem;"/>
+<img src="/resources/chapter1/Fig29.jpg" width=300 style="float: right; margin-top:0rem;"/>
 
 + **Altura**: La información de cómo medir correctamente la altura de la planta puede ser encontrada en la página 19. No puede ingresar una altura que sea menor que la altura anterior. La medida de la altura más reciente puede ser encontrada en la esquina izquierda (**Ultimo monitoreo**). Si la planta es ahora más corta de lo que se registró anteriormente, ingrese el mismo número registrado anteriormente. Luego, en **Observaciones**, ingrese el valor de la altura medida y escribiendo “Altura real”.
 <img/>
@@ -459,7 +459,7 @@ Materiales y Equipamiento
 11. Tijeras de podar
 12. GPS con baterías
 
-<img src="/docs/chapter1/Fig30.jpg" width=360 style="float: right; margin-top:0rem;"/>
+<img src="/resources/chapter1/Fig30.jpg" width=360 style="float: right; margin-top:0rem;"/>
 
 Los códigos de cada planta pueden ser encontrados en la placa metálica, en el palo de madera junto a la planta o escritos en la tapa de la caja Waterboxx (Figura 29). A veces en plantas más grandes, las placas metálicas están colocadas en las ramas o en el tallo principal.
 
@@ -476,33 +476,33 @@ Adicionalmente al monitoreo, el mantenimiento y limpieza de los sitios de estudi
 
 A continuación, se muestran ejemplos de formas de crecimiento y factores de complicación junto con métodos específicos para medir cada forma de crecimiento.
 
-<img src="/docs/chapter1/Fig31.jpg" width=260 style="float: right; margin-top:0rem;"/>
+<img src="/resources/chapter1/Fig31.jpg" width=260 style="float: right; margin-top:0rem;"/>
 
 **Plantas con un Eje Principal**
 En las plantas que tienen un eje principal bien definido, la altura debe medirse desde el nivel del suelo hasta la parte superior del tallo (Figura 30). Mientras mide el eje, asegúrese de que el dispositivo de medición se mantenga recto para evitar errores en la medición. Los frutos y las inflorescencias no se incluyen en las medidas de altura ya que son partes temporales de la planta. Las plantas en esta categoría incluyen _Opuntia_ sp., _Parkinsonia aculeata_, _Senna pistaciifolia_, _Maytenus octogona_, _Bursera_ sp., _Vallesia glabra_.
 <img/>
 
-<img src="/docs/chapter1/Fig32.jpg" width=260 style="float: right; margin-top:0rem;"/>
+<img src="/resources/chapter1/Fig32.jpg" width=260 style="float: right; margin-top:0rem;"/>
 
 **Varios Ejes**
 Hay muchas especies que generan varios ejes primarios o bifurcaciones desde una edad temprana. Esto puede dificultar la determinación de la altura total. En estos casos, las medidas se tomarán en el eje principal de mayor altura o longitud (Figura 31). Para las especies que tienden a tener hábitos de rastreo, es necesario marcar este eje o rama con cinta para que monitoreos posteriores puedan seguir utilizando la misma rama para las mediciones. Algunos ejemplos de vegetación con múltiples ejes son: _Lecocarpus_ sp., _Prosopis juliflora_, _Cordia lutea_, _Waltheria ovata_, _Clerodendrum molle_, _Gossypium darwinii_.
 <img/>
 
-<img src="/docs/chapter1/Fig33.jpg" width=260 style="float: right; margin-top:0rem;">
+<img src="/resources/chapter1/Fig33.jpg" width=260 style="float: right; margin-top:0rem;">
 
 **Múltiples ramas**
 Algunas especies generan múltiples ramas que crecen a diferentes ritmos. Este crecimiento desigual puede confundir a un monitor, por lo que es importante que siempre marque y mida la misma rama para obtener datos precisos (Figura 32). Algunos ejemplos de este tipo de vegetación son: _Lycium minimum_, _Acacia macracantha_, _Alternanthera filifolia_, Ésta última es una de las especies que tiene un eje principal, pero varias ramas que son muy sensibles al tacto y tienden a romperse. Es importante tomar una altura intermedia o promedio donde la mayoría de las ramas hayan alcanzado su altura máxima (Figura 33).
 <img/>
 
 <p style='margin-top:4rem;'>
-<img src="/docs/chapter1/Fig34.jpg" width=310 style="float: right; margin-top:0rem;">
+<img src="/resources/chapter1/Fig34.jpg" width=310 style="float: right; margin-top:0rem;">
 
 **Tallos y brotes secos**
 Algunas plantas en nuestros sitios de estudio pueden entrar y salir de períodos de crecimiento y latencia; durante los períodos de inactividad, las plantas pueden parecer muertas (Figura 34). Los cambios en los períodos de crecimiento pueden ser el resultado de factores climáticos como el viento o la sequía o pueden ser el resultado de plagas o enfermedades.
 <img/>
 </p>
 
-<img src="/docs/chapter1/Fig35.jpg" width=290 style="float: left; margin-top:0rem;margin-bottom:0rem;"/>
+<img src="/resources/chapter1/Fig35.jpg" width=290 style="float: left; margin-top:0rem;margin-bottom:0rem;"/>
 
 Estas condiciones son comunes en Galápagos y pueden matar a las plantas. A veces, estos cambios confunden al monitor y pueden hacer difícil saber si una planta está muerta o viva. Cuando esto ocurra, tome medidas del tallo que queda o que ha vuelto a crecer. Las especies que pueden presentar estos dilemas incluyen _Castela_, _Lycium_, _Acacia_, _Senna_ y _Bursera graveolens_.
 <img/>
@@ -527,7 +527,7 @@ Estas condiciones son comunes en Galápagos y pueden matar a las plantas. A vece
 ### Protocolo de análisis de productividad en agricultura
 
 <p style='margin-top:2rem; margin-bottom:0rem;'>
-<img src="/docs/chapter1/Fig36.jpg" width=310 style="float: right; margin-top:0rem; margin-bottom:0rem;">
+<img src="/resources/chapter1/Fig36.jpg" width=310 style="float: right; margin-top:0rem; margin-bottom:0rem;">
 
 El crecimiento de la población en el archipiélago de Galápagos en las últimas décadas ha provocado la necesidad permanente de la importación de productos perecederos y no perecederos del continente. Esto crea precios altos para el consumidor y trae productos que fueron cultivados sin regulaciones. Estos productos importados traen consigo el peligro de introducir nuevas plagas y enfermedades. La importación de productos también perturba los mercados locales de cultivos de importancia económica, reduce los precios de los productos locales, lo que genera una pérdida de producción local y crea un excedente de algunos productos (GADMSC, 2009).
 <img/>
@@ -550,7 +550,7 @@ El proceso de análisis de la productividad en la agricultura consiste en medir 
 3. Balanza
 
 <p style='margin-top:2rem;'>
-<img src="/docs/chapter1/Fig37.jpg" width=310 style="float: right; margin-top:3rem;">
+<img src="/resources/chapter1/Fig37.jpg" width=310 style="float: right; margin-top:3rem;">
 
 **METODOLOGÍA**
 

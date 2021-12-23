@@ -10,7 +10,7 @@ type: book
 weight: 1
 ---
 
-Descargar version en [PDF](/docs/chapter1/Manual_Vol.pdf)
+Descargar version en [PDF](/resources/chapter1/Manual_Vol.pdf)
 
                                         Mayo 2021, GV2050 Team
                                        Patricia Jaramillo Díaz
