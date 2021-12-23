@@ -1,5 +1,5 @@
 ---
-title: Docs
+title: Resources
 toc: false
 type: book
 ---
