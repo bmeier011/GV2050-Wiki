@@ -12,6 +12,6 @@ La restauración ecológica requiere identificar objetivos de restauración que 
 
 Esta aplicación te muestra el porcentaje de progreso que el proyecto alcanza actualmente con respecto al número objetivo de plántas que se introduzca en el espacio en blanco.
 
-![Fig3_Restor.png](Fig3_Restor.jpg)
+![Fig3_Restor.jpg](Fig3_Restor.jpg)
 
-<img src="Fig3_Restor.jpg" width='350'/>
+<img src="/resources/HD_Restor/Fig3_Restor.jpg" width='350'/>

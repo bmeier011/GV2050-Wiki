@@ -9,12 +9,17 @@ output: html_document
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
-Run this R Markdown document every time you open the R project
+
 
 ```{r}
+# Load required libraries
 library(blogdown)
+
+# To start viewer
 blogdown::serve_site()
-blogdown::stop_server()
+
+# To stop viewer
+# blogdown::stop_server()
 ```
 
 
