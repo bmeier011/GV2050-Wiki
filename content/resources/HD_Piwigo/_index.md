@@ -37,3 +37,7 @@ Una vez iniciados los servidores, se podrá acceder a la galería desde cualquie
 + [http://piwigo.fcdarwin.org.ec/](http://piwigo.fcdarwin.org.ec/)
 + [http://192.168.100.168/piwigo](http://192.168.100.168/piwigo)
 + [localhost/piwigo/](localhost/piwigo/) (solo en computadora del Herbario)
+
+<p style='text-align:justify;'>
+Al acabar de utilizar la galería se debe apagar los servidores utilizando el programa XAMPP.
+</p>
