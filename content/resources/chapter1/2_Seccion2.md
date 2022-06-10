@@ -371,7 +371,7 @@ biodegradable Growsafe alrededor de la planta en el hueco central (Figura 20).
 El hidrogel es una substancia absorbente que se puede utilizar para retener agua alrededor de las raíces de las plantas. Los productos de hidrogel están compuestos por un grupo de materiales poliméricos (poliacrilato de potasio) cuya estructura hidrofílica los hace capaces de retener grandes cantidades de agua. Puede contener hasta 1000 veces su volumen en agua y liberará lentamente el agua al sistema de raíces a medida que se seque el suelo (Figura 24).
 </p>
 
-1. Generalmente, en GV2050 se usa la mezcla del polvo de hidrogel con agua antes de la siembra. El método general de aplicación es 250g de la bolsa de 1kg por chimbuzo. Asegúrese de agitar el agua mientras se vierte el polvo para evitar coagulación. La figura 25 muestra la consistencia de hidrogel ya preparado.
+1. Generalmente, en GV2050 se usa la mezcla del polvo de hidrogel con agua antes de la siembra. El método general de aplicación es 8.75 gramos de hidrogel por cada 5 litros de agua. Asegúrese de agitar el agua mientras se vierte el polvo para evitar coagulación. La figura 25 muestra la consistencia de hidrogel ya preparado.
 
 2. Mezcle bien el hidrogel antes de sembrar la planta.
 
