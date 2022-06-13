@@ -45,3 +45,14 @@ Para usar Anki se necesita un archivo compatible que contiene tarjetas de memori
 También se encuentra disponible la Version 2 del paquete con más especies de plantas que se encuentran en Galápagos, no solamente nativas y endémicas que se usan en el proyecto, si no también especies introducidas.</p>
 
 [Descarga GV2050_AnkiV2.apkg](GV2050_AnkiV2.0.apkg)
+
+## ¿Cómo sincronizar Anki con tu dispositivo móvil?
+
+<p style='text-align:justify;'>
+AnkiWeb es un servicio que te permite mantener tu colección sincronizada entre varios dispositivos.</p>
+
+<p style='text-align:justify;'>
+Para empezar a sincronizar tu colección entre tus dispositivos, haz clic en el botón de sincronizar (en la parte superior derecha de la pantalla principal), o presiona y en tu teclado. Se te pedirá que ingreses tu ID de AnkiWeb y clave, las cuales creaste cuando creaste tu cuenta.</p>
+
+<p style='text-align:justify;'>
+Cuando tu sincronices tu colección por primera vez, Anki no podrá combinar contenido en tu cuenta de AnkiWeb y contenido guardado en tu computador, así que tendrás que elegir que lado quieres mantener, si tu contenido en AnkiWeb, o tu contenido de Anki en tu computador. Sin embargo, una vez la configuración inicial haya sido completada, Anki podrá combinar cambios en múltiples localizaciones con algunas excepciones.</p>

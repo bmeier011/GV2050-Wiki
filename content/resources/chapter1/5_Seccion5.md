@@ -5,6 +5,15 @@ title: SECCIÓN 5 – OTROS RECURSOS
 type: book
 weight: 5
 ---
+**INSTRUCTIVO PARA ELABORACIÓN DE INFORMES AL DONANTE Y A LA DPNG**
+
+El reporte al donante es un reporte trimestral que debe ser entregado en idioma Inglés, en formato Word.
+
+El reporte para el año 2022 ha sido establecido que debe tener un máximo de 5 páginas de 1 solo lado.
+
+La primera página debe tener un resumen ejecutivo (Executive summary) de 1 hoja A4 y debe estar en letra tamaño 10pt. Mínimo. Este resumen debe tener los key points, problemas, retos, conclusión, etc.
+
+Descargar en [PDF](/resources/chapter1/Instructivo_Informes_Donante_y_DPNG.pdf)
 
 **INFOGRAFÍA SOBRE EL MARCO DE RESTAURACIÓN ECOLÓGICA**
 
@@ -17,6 +26,16 @@ weight: 5
 
 En 2018, GV2050 ganó el premio 'Protagonistas' en los Premios Latinoamerica Verde. El premio fue un documental en DirecTV que se puede encontrar aquí: [https://www.youtube.com/watch?v=DLLR3T7uJ7A&t=643s](https://www.youtube.com/watch?v=DLLR3T7uJ7A&t=643s)
 
+**ACCESO A LOS GEOPORTALES DE LA FUNDACIÓN CHARLES DARWIN**
+
+LOCAL:
+[http://geoportal.fcdarwin.org.ec/layers/](http://geoportal.fcdarwin.org.ec/layers/)
+
+EXTERNO: 
+[https://geodata-fcdgps.opendata.arcgis.com/search](https://geodata-fcdgps.opendata.arcgis.com/search)
+
+GEOPORTAL DE LOS DATOS DEL PLAN GALÁPAGOS 2030 (CONSTRUIDO POR LA FCD):
+[https://galapagos-geonode.unesco.org/#/](https://galapagos-geonode.unesco.org/#/)
 
 ### Referencias
 Andersson NJ (1858) Flora of the Galápagos Islands. Botanik 1:3-34
