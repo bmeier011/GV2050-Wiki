@@ -1,7 +1,7 @@
 ---
 date: "2019-05-05T00:00:00+01:00"
-linktitle: SECCIÓN 5 – OTROS RECURSOS
-title: SECCIÓN 5 – OTROS RECURSOS
+linktitle: OTROS RECURSOS
+title: OTROS RECURSOS
 type: book
 weight: 5
 ---

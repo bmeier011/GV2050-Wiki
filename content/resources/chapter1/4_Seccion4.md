@@ -1,7 +1,7 @@
 ---
 date: "2019-05-05T00:00:00+01:00"
-linktitle: SECCIÓN 4 – OTROS
-title: SECCIÓN 4 – OTROS
+linktitle: OTROS
+title: OTROS
 type: book
 weight: 4
 ---
