@@ -1,7 +1,7 @@
 ---
 date: "2019-05-05T00:00:00+01:00"
-linktitle: SECCIÓN 2 - TRABAJANDO EN EL CAMPO
-title: SECCIÓN 2 - TRABAJANDO EN EL CAMPO
+linktitle: TRABAJANDO EN EL CAMPO
+title: TRABAJANDO EN EL CAMPO
 type: book
 weight: 2
 output: html_document

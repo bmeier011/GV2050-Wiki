@@ -19,3 +19,6 @@ main:
   - name: Tools
     url: tools/
     weight: 50
+  - name: Volunteers
+    url: volunteers/
+    weight: 60
