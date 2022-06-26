@@ -12,6 +12,6 @@ weight: 1
 
 <img src="/volunteers/actividades/act.png" width=550 style="margin-bottom:3rem;"/>
 
-**Accede a tus activiadaes ingresando al siguiente link:**
+**Accede a tus actividades ingresando al siguiente link:**
 
 [https://docs.google.com/spreadsheets/d/1rGjSH1cPqdZJB9JlaqckOtJ4HR_BbAa9/edit#gid=269047835](https://docs.google.com/spreadsheets/d/1rGjSH1cPqdZJB9JlaqckOtJ4HR_BbAa9/edit#gid=269047835)
