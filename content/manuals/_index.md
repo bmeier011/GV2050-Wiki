@@ -1,5 +1,5 @@
 ---
-title: Volunteer Manual
+title: Manuals
 toc: false
 type: book
 ---

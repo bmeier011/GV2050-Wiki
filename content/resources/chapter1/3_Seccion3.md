@@ -1,7 +1,7 @@
 ---
 date: "2019-05-05T00:00:00+01:00"
-linktitle: CULTIVO Y CUIDADO DE PLANTAS EN LA FCD
-title: CULTIVO Y CUIDADO DE PLANTAS EN LA FCD
+linktitle: Cultivo y cuidado de las plantas en la FCD
+title: Cultivo y cuidado de las plantas en la FCD
 type: book
 weight: 3
 ---

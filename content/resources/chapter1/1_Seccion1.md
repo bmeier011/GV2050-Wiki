@@ -1,7 +1,7 @@
 ---
 date: "2021-11-016T00:00:00+01:00"
-linktitle: INTRODUCCIÓN AL GV2050
-title: INTRODUCCIÓN AL GV2050
+linktitle: Introducción al GV2050
+title: Introducción al GV2050
 type: book
 weight: 1
 ---
