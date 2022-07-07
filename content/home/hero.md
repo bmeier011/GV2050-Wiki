@@ -13,7 +13,7 @@ cta:
   url: resources/
   label: Get Started
   icon_pack: fas
-  icon: download
+  icon: box
 cta_alt:
   url: resources/
   label: View Documentation
@@ -24,6 +24,13 @@ cta_note:
     </span>
 ---
 
-Write something interesting about your project here.
+<p style='font-size:1rem;'>
+Bienvenido a la comunidad virtual del programa GV2050, aquí encontrarás:
+<ul>
+<li>Manuales de uso
+<li>Información a cerca de proyectos
+<li>Protocolos
+<li>Herramientas
+<li>Links a publicaciones
 
 

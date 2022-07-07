@@ -1,7 +1,7 @@
 ---
 date: "2019-05-05T00:00:00+01:00"
-linktitle: TRABAJANDO EN EL CAMPO
-title: TRABAJANDO EN EL CAMPO
+linktitle: Trabjando en el campo
+title: Trabjando en el campo
 type: book
 weight: 2
 output: html_document
