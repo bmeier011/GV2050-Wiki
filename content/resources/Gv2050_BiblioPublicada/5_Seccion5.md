@@ -5,7 +5,7 @@ title: Otros Recursos
 type: book
 weight: 5
 ---
-**INSTRUCTIVO PARA ELABORACIÓN DE INFORMES AL DONANTE Y A LA DPNG**
+### Instructivo para elaboración de informes al donante y a la DPNG
 
 El reporte al donante es un reporte trimestral que debe ser entregado en idioma Inglés, en formato Word.
 
@@ -15,26 +15,29 @@ La primera página debe tener un resumen ejecutivo (Executive summary) de 1 hoja
 
 Descargar en [PDF](/manuals/chapter1/Instructivo_Informes_Donante_y_DPNG.pdf)
 
-**INFOGRAFÍA SOBRE EL MARCO DE RESTAURACIÓN ECOLÓGICA**
+### Infografía sobre el marco de restauración ecológica
 
 [https://www.darwinfoundation.org/en/blog-articles/605-preserving-terrestrial-ecosystems-of-the-galapagos-islands](https://www.darwinfoundation.org/en/blog-articles/605-preserving-terrestrial-ecosystems-of-the-galapagos-islands)
 
-**VIDEO DE REALIDAD VIRTUAL 360° SOBRE LA RESTAURACIÓN DE OPUNTIA**
-[https://www.youtube.com/watch?v=PlzJGxT0mxM](https://www.youtube.com/watch?v=PlzJGxT0mxM)
+### Video de realidad virtual 306° sobre la restauración de Opuntia.
 
-**DOCUMENTAL "PROTAGNONISTAS"**
+[https://www.youtube.com/watch?v=PlzJGxT0mxM](https://www.youtube.com/watch?v=PlzJGxT0mxM)
+### Documental "Protagonistas"
 
 En 2018, GV2050 ganó el premio 'Protagonistas' en los Premios Latinoamerica Verde. El premio fue un documental en DirecTV que se puede encontrar aquí: [https://www.youtube.com/watch?v=DLLR3T7uJ7A&t=643s](https://www.youtube.com/watch?v=DLLR3T7uJ7A&t=643s)
 
-**ACCESO A LOS GEOPORTALES DE LA FUNDACIÓN CHARLES DARWIN**
+### Acceso a los Geoportales de la FCD
+<ul>
+<li>Local
 
-LOCAL:
 [http://geoportal.fcdarwin.org.ec/layers/](http://geoportal.fcdarwin.org.ec/layers/)
 
-EXTERNO: 
+<li>Externo
+
 [https://geodata-fcdgps.opendata.arcgis.com/search](https://geodata-fcdgps.opendata.arcgis.com/search)
 
-GEOPORTAL DE LOS DATOS DEL PLAN GALÁPAGOS 2030 (CONSTRUIDO POR LA FCD):
+<li>Geoportal de los datos del Plan Galápagos 2030 (construido por la FCD)
+
 [https://galapagos-geonode.unesco.org/#/](https://galapagos-geonode.unesco.org/#/)
 
 ### Referencias
@@ -44,7 +47,7 @@ Blake S, Wikelski M, Cabrera F, Guezou A, Silva M, Sadeghayobi E, Yackulic C, Ja
 
 Blake S, Wikelski M, Cabrera F, Guezou A, Silva M, Sadeghayobi E, Yackulik C, Jaramillo P (2011a) Gardeners of Galapagos? Seed dispersal by giant tortoises. Journal of Biogeography (submission):1-41
 
-Blake S, Wikelski M, Cabrera F, Yackulic C, Gibbs J, Tapia W, Guézou A, Jaramillo P (2011b) Galapagos Tortoise Programme.
+Blake S, Wikelski M, Cabrera F, Yackulic C, Gibbs J, Tapia W, Guézou A, Jaramillo P (2011b) Galapagos Tortoise Programme. 
 Christian KA, Tracy CR, Porter WP (1984) Diet, digestion and food preferences of Galapagos land iguanas. Herpetologica 40:205-212
 
 Coronel Villavicencio V (2002) Distribución y re-establecimiento de Opuntia megasperma var. orientalis Howell. (Cactaceae) en Punta Cevallos, Isla Española, Galápagos. Uni. del Azuay, Facultad de Ciencia y Technología,

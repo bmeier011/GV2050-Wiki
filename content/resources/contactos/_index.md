@@ -9,9 +9,9 @@ type: book
 weight: 3
 ---
 
-Contactos del equipo GV2050.
+## Contactos del equipo GV2050.
 
-<table style='border: 1px solid gray; width: 100%; margin-top: -1rem'>
+<table style='border: 1px solid gray; width: 100%; margin-top: 0rem; overflow: hidden;'>
 <tr>
 <th style='width: 25%;'>Name</th>
 <th style='width: 10%;'>CI/Passport</th>
@@ -95,26 +95,26 @@ Contactos del equipo GV2050.
   <td>xxxxxxxxxxx</td>
   <td>Voluntaria</td>
   <td>+34 618 65 61 35</td>
-  <td>xxxxxxxxxxxxxxxxxxxxx</td>
+  <td>carmencitasdc30@gmail.com</td>
 </tr>
 <tr>
   <td>Yaiza Romero</td>
   <td>xxxxxxxxxxx</td>
   <td>Voluntaria</td>
   <td>+34 690 15 96 76</td>
-  <td>xxxxxxxxxxxxxxxxxxxxx</td>
+  <td>yaielburgo@gmail.com</td>
 </tr>
 </tbody>
 </table>
 
-Contactos de fincas.
+## Contactos de fincas.
 
-<table style='border: 1px solid gray; width: 65%; margin-top: -1rem'>
+<table style='border: 1px solid gray; width: 75%; margin-top: 0rem; overflow: hidden;'>
 <tr>
-<th style='width: 21%;'>Finca</th>
+<th style='width: 24%;'>Finca</th>
 <th style='width: 20%;'>Isla</th>
 <th style='width: 26%;'>Contacto</th>
-<th style='width: 30%;'>Teléfono</th>
+<th style='width: 27%;'>Teléfono</th>
 </tr>
 <tbody style="border: 1px solid rgba(100, 200, 0, 0.3);">
 <tr>
@@ -122,6 +122,36 @@ Contactos de fincas.
   <td>Floreana</td>
   <td>María De Lourdes Soria</td>
   <td>+593 99 723 8527</td>
+</tr>
+<tr>
+  <td>Anibal San Miguel</td>
+  <td>Floreana</td>
+  <td>Anibal San Miguel</td>
+  <td>+593 98 715 3933</td>
+</tr>
+<tr>
+  <td>El Trinar</td>
+  <td>San Cristobal</td>
+  <td>Pamela Yépez</td>
+  <td>+593 98 767 2134</td>
+</tr>
+<tr>
+  <td>Las Colinas</td>
+  <td>San Cristobal</td>
+  <td>Paulina Cango</td>
+  <td>+593 99 402 7497</td>
+</tr>
+<tr>
+  <td>Carlos Ortega</td>
+  <td>San Cristobal</td>
+  <td>Carlos Ortega</td>
+  <td>+593 99 467 6191</td>
+</tr>
+<tr>
+  <td>Nicolás Andrade</td>
+  <td>San Cristobal</td>
+  <td>Nicolás Andrade</td>
+  <td>+593 99 822 9126</td>
 </tr>
 <tr>
   <td>Mario Piu</td>
@@ -150,9 +180,9 @@ Contactos de fincas.
 </tbody>
 </table>
 
-Contactos importantes.
+## Contactos importantes.
 
-<table style='border: 1px solid gray; width: 70%; margin-top: -1rem'>
+<table style='border: 1px solid gray; width: 70%; margin-top: 0rem; overflow: hidden;'>
 <tr>
 <th style='width: 33%;'>Name</th>
 <th style='width: 33%;'>Cargo</th>
