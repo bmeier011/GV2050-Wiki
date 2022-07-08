@@ -1,8 +1,8 @@
 ---
-date: "2018-09-09T00:00:00Z"
+date: "2022-09-09T00:00:00Z"
 icon: book
 icon_pack: fas
-linktitle: Manual de Procesos  Protocolos y Tecnologías
+linktitle: Manual de Procesos
 summary: Learn how to use Wowchemy's docs layout for publishing online courses, software documentation, and tutorials.
 title: Manual de Procesos Protocolos y Tecnologías
 type: book
