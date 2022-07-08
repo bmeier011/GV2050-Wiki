@@ -1,7 +1,7 @@
 ---
 date: "2019-05-05T00:00:00+01:00"
-linktitle: OTROS RECURSOS
-title: OTROS RECURSOS
+linktitle: Otros Recursos
+title: Otros Recursos
 type: book
 weight: 5
 ---
@@ -13,7 +13,7 @@ El reporte para el año 2022 ha sido establecido que debe tener un máximo de 5 
 
 La primera página debe tener un resumen ejecutivo (Executive summary) de 1 hoja A4 y debe estar en letra tamaño 10pt. Mínimo. Este resumen debe tener los key points, problemas, retos, conclusión, etc.
 
-Descargar en [PDF](/resources/chapter1/Instructivo_Informes_Donante_y_DPNG.pdf)
+Descargar en [PDF](/manuals/chapter1/Instructivo_Informes_Donante_y_DPNG.pdf)
 
 **INFOGRAFÍA SOBRE EL MARCO DE RESTAURACIÓN ECOLÓGICA**
 

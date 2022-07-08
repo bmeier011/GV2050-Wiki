@@ -14,7 +14,7 @@ weight: 4
 GV2050 tiene un automóvil eléctrico ubicado en Baltra para poder viajar y transportar materiales fácilmente entre los sitios de estudio. El auto tiene un remolque desmontable. El automóvil está ubicado en la Puerta 3 del sitio de carga del aeropuerto junto a su punto de carga (Figura 40), sin embargo, la FAE permite a veces que el automóvil se almacene y cargue por la noche durante nuestra estadía allí. Para abrir la Puerta 3, es posible que sea necesario contactar a William Tirado de ECOGAL. 
 </p>
 
-<img src="/resources/chapter1/Fig38.jpg" width=850 style="margin-top:0rem; margin-bottom:0rem;">
+<img src="/manuals/chapter1/Fig38.jpg" width=850 style="margin-top:0rem; margin-bottom:0rem;">
 
 
 
@@ -36,7 +36,7 @@ GV2050 tiene un automóvil eléctrico ubicado en Baltra para poder viajar y tran
 + Rocíe el limpiador de conexiones electrónicas (Figura XX) en todas las conexiones una vez que se ha lavado el carro.
 
 
-<img src="/resources/chapter1/Fig39.jpg" width=330 style="float: right; margin-top:0rem; margin-bottom:0rem;">
+<img src="/manuals/chapter1/Fig39.jpg" width=330 style="float: right; margin-top:0rem; margin-bottom:0rem;">
 
 + Colocar el aceite WD-40 en las piezas susceptibles a la corrosión (tuercas, tornillos, terminales de la batería, etc.)
 + Verifique el nivel de agua destilada en las baterías (Use la manguera con la bomba, conéctela a la batería y coloque el otro extremo de la manguera en el recipiente con agua destilada, presione la bomba, si la bomba no deja entrar más agua destilada, se comprueba que está llena).
@@ -48,7 +48,7 @@ GV2050 tiene un automóvil eléctrico ubicado en Baltra para poder viajar y tran
 
 #### Otras cosas de considerar
 
-<img src="/resources/chapter1/Fig40.jpg" width=360 style="float: right; margin-top:1rem; margin-bottom:0rem;">
+<img src="/manuals/chapter1/Fig40.jpg" width=360 style="float: right; margin-top:1rem; margin-bottom:0rem;">
 
 + Evite el uso del vehículo si tiene menos del 20% de nivel de batería.
 + Siempre cargue completamente antes de usar.
@@ -70,7 +70,7 @@ GV2050 tiene un automóvil eléctrico ubicado en Baltra para poder viajar y tran
 
 ### Gafas de Realidad Virtual GV2050
 
-<img src="/resources/chapter1/Fig41.jpg" width=400 style="float: right; margin-top:1rem; margin-bottom:0rem;">
+<img src="/manuals/chapter1/Fig41.jpg" width=400 style="float: right; margin-top:1rem; margin-bottom:0rem;">
 
 El proyecto ha creado un video de experiencia de realidad virtual sobre la restauración de especies de Opuntia. El equipo para esto incluye:
 + 3x gafas Samsung Gear VR (Figure 41)
@@ -83,7 +83,7 @@ Contraseña: Cl4d0d10VR
 Fecha de nacimiento: 1 de enero de 1950
 <img/>
 
-<img src="/resources/chapter1/Fig42.jpg" width=340 style="float: right; margin-top:1rem; margin-bottom:0rem;">
+<img src="/manuals/chapter1/Fig42.jpg" width=340 style="float: right; margin-top:1rem; margin-bottom:0rem;">
 
 #### Preparación 
 
@@ -93,7 +93,7 @@ Fecha de nacimiento: 1 de enero de 1950
 4. Espacio suficiente para que la gente se mueva con las sillas.
 <img/>
 
-<img src="/resources/chapter1/Fig43.jpg" width=340 style="float: right; margin-top:1rem; margin-bottom:0rem;">
+<img src="/manuals/chapter1/Fig43.jpg" width=340 style="float: right; margin-top:1rem; margin-bottom:0rem;">
 
 **INSTRUCCIONES**
 
@@ -103,7 +103,7 @@ Fecha de nacimiento: 1 de enero de 1950
 <img/>
 
 <p style='margin-top:3rem;'>
-<img src="/resources/chapter1/Fig44.jpg" width=340 style="float: right; margin-top:1rem; margin-bottom:0rem;">
+<img src="/manuals/chapter1/Fig44.jpg" width=340 style="float: right; margin-top:1rem; margin-bottom:0rem;">
 
 4. Desbloquee y empuje el botón de la izquierda a la posición "B" (Figura 44).
 5. Levante el botón del otro lado.
@@ -111,14 +111,14 @@ Fecha de nacimiento: 1 de enero de 1950
 </p>
 
 <p style='margin-top:9rem;'>
-<img src="/resources/chapter1/Fig45.jpg" width=340 style="float: right; margin-top:1rem; margin-bottom:0rem;">
+<img src="/manuals/chapter1/Fig45.jpg" width=340 style="float: right; margin-top:1rem; margin-bottom:0rem;">
 
 6. Coloque el teléfono en el puerto en el botón del lado izquierdo (Figura 45).
 <img/>
 </p>
 
 <p style='margin-top:10rem; margin-bottom:0rem;'>
-<img src="/resources/chapter1/Fig46.jpg" width=340 style="float: right; margin-top:1rem; margin-bottom:0rem;">
+<img src="/manuals/chapter1/Fig46.jpg" width=340 style="float: right; margin-top:1rem; margin-bottom:0rem;">
 
 7. Empuje el teléfono hacia abajo y el control deslizante de la derecha debería encajar en su lugar
 8. Coloque las gafas en su cabeza. El movimiento de la cabeza debería mover el cursor y tocar el panel en el lado derecho de las gafas es hacer clic (Figure 46)
@@ -128,7 +128,7 @@ Fecha de nacimiento: 1 de enero de 1950
 </p>
 
 <p style='margin-top:0rem;'>
-<img src="/resources/chapter1/Fig47.jpg" width=340 style="float: right; margin-top:0rem; margin-bottom:0rem;">
+<img src="/manuals/chapter1/Fig47.jpg" width=340 style="float: right; margin-top:0rem; margin-bottom:0rem;">
 
 10. Haga clic en "Library"
 11. Haga clic en "Oculus video".
@@ -175,5 +175,5 @@ a. [https://www.gpsbabel.org/screenshots.html](https://www.gpsbabel.org/screensh
 b. [https://www.gpsbabel.org/htmldoc-1.6.0/fmt_shape.html](https://www.gpsbabel.org/htmldoc-1.6.0/fmt_shape.html)
 4) Luego abra el shapefile con ArcMap usando el Catálogo.
 
-<img src="/resources/chapter1/Fig48.jpg" width=750 style="float: right; margin-top:1rem; margin-bottom:0rem;">
+<img src="/manuals/chapter1/Fig48.jpg" width=750 style="float: right; margin-top:1rem; margin-bottom:0rem;">
 
