@@ -9,13 +9,13 @@ main:
     weight: 10
   - name: Projects
     url: projects/
-    weight: 10
+    weight: 40
   - name: Manuals
     url: manuals/
     weight: 30
   - name: Resources
     url: resources/
-    weight: 40
+    weight: 20
   - name: Tools
     url: tools/
     weight: 50

@@ -30,9 +30,10 @@ weight: 1
 + **Oct 2017** - Action Plan for the Ecological Restoration of Baltra and Plaza Sur Islands [(PDF)](PlanAccion_Baltra) (english)
 
 ## Blogs 
++ **Jul 2022** - Leaving my mark in the Galapagos as a GV2050 volunteer! [(Link)](https://www.darwinfoundation.org/en/blog-articles/820-leaving-my-mark-in-the-galapagos-as-a-gv2050-volunteer)
++ **Jun 2022** - Galápagos Verde 2050: Adventure of a lifetime for an ecological restoration biologist on the Galapagos Islands! [(Link)](https://www.darwinfoundation.org/en/blog-articles/800-galapagos-verde-2050-adventure-of-a-lifetime-for-an-ecological-restoration-biologist-on-the-galapagos-islands)
 + **Jun 2020** - Salvando una especie al borde de la extinción: Galápagos Verde 2050 [(Link)](https://www.darwinfoundation.org/es/articulos-blog/576-salvando-una-especie-al-borde-de-la-extincion-galapagos-verde-2050)
-+ **Apr 2020** - 
-Galápagos en el año 2050: una visión desde Galápagos Verde 2050 [(Link)](https://www.darwinfoundation.org/es/articulos-blog/546-galapagos-en-el-ano-2050-una-vision-desde-galapagos-verde-2050)
++ **Apr 2020** - Galápagos en el año 2050: una visión desde Galápagos Verde 2050 [(Link)](https://www.darwinfoundation.org/es/articulos-blog/546-galapagos-en-el-ano-2050-una-vision-desde-galapagos-verde-2050)
 + **Jul 2019** - Ecological gardens in Galápagos: Inspiring future generations [(Link)](https://www.darwinfoundation.org/en/blog-articles/477-ecological-gardens-in-galapagos-inspiring-future-generations)
 + **May 2019** - 
 Galapagos Verde 2050: Bringing ecological integrity back to South Plaza [(Link)](https://www.darwinfoundation.org/en/blog-articles/461-gv2050-bringing-ecological-integrity-back-to-south-plaza)

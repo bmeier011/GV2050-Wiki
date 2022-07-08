@@ -1,6 +1,6 @@
 ---
 date: "2022-09-09T00:00:00Z"
-icon: bars
+icon: book
 icon_pack: fas
 linktitle: Contactos
 summary: Learn how to use Wowchemy's docs layout for publishing online courses, software documentation, and tutorials.
@@ -9,6 +9,189 @@ type: book
 weight: 3
 ---
 
-Aquí encontraras los contactos necesarios.
+Contactos del equipo GV2050.
 
+<table style='border: 1px solid gray; width: 100%; margin-top: -1rem'>
+<tr>
+<th style='width: 25%;'>Name</th>
+<th style='width: 10%;'>CI/Passport</th>
+<th style="text-align: center; width: 5%;">Cargo</th>
+<th style="width: 45%;">Teléfono</th>
+<th style="text-align: center; width: 15%;">Mail</th>
+</tr>
+<tbody style="border: 1px solid rgba(100, 200, 0, 0.3);">
+<tr>
+  <td>Patricia Jaramillo</td>
+  <td>xxxxxxxxxxx</td>
+  <td style='text-align: center;'>staff</td>
+  <td>+593 99 729 8781</td>
+  <td>patricia.jaramillo@fcdarwin.org.ec</td>
+</tr>
+<tr>
+  <td>David Cevallos</td>
+  <td>xxxxxxxxxxx</td>
+  <td style='text-align: center;'>staff</td>
+  <td>+36 20 434 0774</td>
+  <td>david.cevallos@fcdarwin.org.ec</td>
+</tr>
+<tr>
+  <td>Anna Calle</td>
+  <td>xxxxxxxxxxx</td>
+  <td style='text-align: center;'>staff</td>
+  <td>+593 98 424 8858</td>
+  <td>anna.calle@fcdarwin.org.ec</td>
+</tr>
+<tr>
+  <td>Pavel Enríquez</td>
+  <td>1718193004</td>
+  <td style='text-align: center;'>staff</td>
+  <td>+593 96 937 4448</td>
+  <td>pavel.enriquez@fcdarwin.org.ec</td>
+</tr>
+<tr>
+  <td>Paul Mayorga</td>
+  <td>2000127262</td>
+  <td style='text-align: center;'>staff</td>
+  <td>+593 95 874 6789</td>
+  <td>paul.mayorga@fcdarwin.org.ec</td>
+</tr>
+<tr>
+  <td>David Cárdenas</td>
+  <td>1804090239</td>
+  <td style='text-align: center;'>staff</td>
+  <td>+593 98 774 2045</td>
+  <td>david.cardenas@fcdarwin.org.ec</td>
+</tr>
+<tr>
+  <td>Maira Gómez</td>
+  <td>xxxxxxxxxxx</td>
+  <td style='text-align: center;'>staff</td>
+  <td>+593 98 695 5807</td>
+  <td>maira.gomez@fcdarwin.org.ec</td>
+</tr>
+<tr>
+  <td>Humberto Díaz</td>
+  <td>1311420887</td>
+  <td>Voluntario</td>
+  <td>+593 98 897 9387</td>
+  <td>hdiazm@est.ups.edu.ec</td>
+</tr>
+<tr>
+  <td>Beatriz Triano</td>
+  <td>PAN313954</td>
+  <td>Voluntaria</td>
+  <td>+34 619 01 69 41</td>
+  <td>beatriztndc@gmail.com</td>
+</tr>
+<tr>
+  <td>Fernando Fernández</td>
+  <td>PAN495881</td>
+  <td>Voluntario</td>
+  <td>+34 680 73 42 90</td>
+  <td>fern7ando@gmail.com</td>
+</tr>
+<tr>
+  <td>Cármen Sevillano</td>
+  <td>xxxxxxxxxxx</td>
+  <td>Voluntaria</td>
+  <td>+34 618 65 61 35</td>
+  <td>xxxxxxxxxxxxxxxxxxxxx</td>
+</tr>
+<tr>
+  <td>Yaiza Romero</td>
+  <td>xxxxxxxxxxx</td>
+  <td>Voluntaria</td>
+  <td>+34 690 15 96 76</td>
+  <td>xxxxxxxxxxxxxxxxxxxxx</td>
+</tr>
+</tbody>
+</table>
 
+Contactos de fincas.
+
+<table style='border: 1px solid gray; width: 65%; margin-top: -1rem'>
+<tr>
+<th style='width: 21%;'>Finca</th>
+<th style='width: 20%;'>Isla</th>
+<th style='width: 26%;'>Contacto</th>
+<th style='width: 30%;'>Teléfono</th>
+</tr>
+<tbody style="border: 1px solid rgba(100, 200, 0, 0.3);">
+<tr>
+  <td>Claudio Cruz</td>
+  <td>Floreana</td>
+  <td>María De Lourdes Soria</td>
+  <td>+593 99 723 8527</td>
+</tr>
+<tr>
+  <td>Mario Piu</td>
+  <td>Santa Cruz</td>
+  <td>Mario Piu</td>
+  <td>+593 98 721 1232</td>
+</tr>
+<tr>
+  <td>Terramar</td>
+  <td>Santa Cruz</td>
+  <td>Anita Arias</td>
+  <td>+593 99 435 4234</td>
+</tr>
+<tr>
+  <td>Darwin's Ecogarden</td>
+  <td>Santa Cruz</td>
+  <td>Cecilia Guerrero</td>
+  <td>+593 99 259 7523</td>
+</tr>
+<tr>
+  <td>El Chato</td>
+  <td>Santa Cruz</td>
+  <td>Vico Arias</td>
+  <td>+593 98 864 4178</td>
+</tr>
+</tbody>
+</table>
+
+Contactos importantes.
+
+<table style='border: 1px solid gray; width: 70%; margin-top: -1rem'>
+<tr>
+<th style='width: 33%;'>Name</th>
+<th style='width: 33%;'>Cargo</th>
+<th style='width: 33%;'>Teléfono</th>
+</tr>
+<tbody style="border: 1px solid rgba(100, 200, 0, 0.3);">
+<tr>
+  <td>Gabriel Idrovo</td>
+  <td>Médico</td>
+  <td>+593 98 448 8231</td>
+</tr>
+<tr>
+  <td>Cinthya Lima</td>
+  <td>Médico</td>
+  <td>+593 98 043 6836</td>
+</tr>
+<tr>
+  <td>Gisellita</td>
+  <td>Tienda</td>
+  <td>+593 99 714 9215</td>
+</tr>
+<tr>
+  <td>Sergio Amay</td>
+  <td>Tanquero de agua</td>
+  <td>+593 99 416 5855</td>
+</tr>
+<tr>
+  <td>Mateo</td>
+  <td>Taxi</td>
+  <td>+593 98 660 0391</td>
+</tr>
+<tr>
+  <td>Rocío Izquierdo</td>
+  <td>Directora de la U.E. Amazonas - Floreana</td>
+  <td>+593 96 883 0209</td>
+</tr><tr>
+  <td>Eddy Rosero</td>
+  <td>DPNG - Floreana</td>
+  <td>+593 99 379 7634</td>
+</tr>
+</tbody>
+</table>
