@@ -1,18 +1,18 @@
 ---
-date: "2018-09-09T00:00:00Z"
-icon: book
+date: "2022-09-09T00:00:00Z"
+icon: bars
 icon_pack: fas
 linktitle: Publicaciones GV2050
 summary: Recopilación de libros, articulos y guías publicadas por el proyecto.
 title: Bibliografía publicada por Galápagos Verde 2050
 type: book
-weight: 6
+weight: 1
 ---
 
 
 ## Artículos
 
-+ **Oct 2021** - Cost‐effectiveness of water‐saving technologies for restoration of tropical dry forest: A case study from the Galapagos Islands, Ecuador [(PDF)](SciPaper_Cost-effectiveness.pdf)
++ **Oct 2021** - Cost‐effectiveness of water‐saving technologies for restoration of tropical dry forest: A case study from the Galapagos Islands, Ecuador [(PDF)](cost.pdf)
 
 + **Dec 2019** - Effectiveness of water-saving technologies during early stages of restoration of endemic Opuntia cacti in the Galápagos Islands, Ecuador [(PDF)](SciPaper_Opuntia.pdf)
 

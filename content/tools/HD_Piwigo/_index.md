@@ -1,6 +1,6 @@
 ---
 date: "2018-09-09T00:00:00Z"
-icon: book
+icon: camera
 icon_pack: fas
 linktitle: Piwigo
 summary: Herramiento Piwigo para acceder a la base de datos de fotos de semillas en el Drobo
