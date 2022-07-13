@@ -17,4 +17,4 @@ actualizaciones constantes en el proyecto a través de medios electrónicos. De
 la misma forma mantener informado al público en general acerca del objetivo 
 del proyecto Galápagos Verde 2050 (GV2050) y su avance.
 
-Descargar documento [PDF](/resources/chapter1/manual_admin_2016.pdf)
+Descargar documento [PDF](/manuals/manual_plataforma/manual_admin_2016.pdf)
