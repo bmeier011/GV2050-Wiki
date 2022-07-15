@@ -9,14 +9,14 @@ type: book
 weight: 1
 ---
 
-Descargar version en [(PDF_english)](/resources/chapter1/Manual_vol_english.pdf) [(PDF_español)](/resources/chapter1/Manual_Vol.pdf)
+Descargar version en [(PDF_english)](/manuals/chapter1/Manual_vol_english.pdf) [(PDF_español)](/manuals/chapter1/Manual_Vol.pdf)
 
                                         Mayo 2021, GV2050 Team
                                        Patricia Jaramillo Díaz
 `Colaboración`: Luka Negoita, Esme Plunkett, Paúl Mayorga, Rebecca Ditgen, Anna Calle y Liliana Jaramillo
 
 
-### ***SECCIÓN 1 – INTRODUCCIÓN AL GALÁPAGOS VERDE 2050***
+### ***INTRODUCCIÓN AL GALÁPAGOS VERDE 2050***
 
 + #### Bienvenido al proyecto Galápagos Verde 2050
 
@@ -24,7 +24,7 @@ Descargar version en [(PDF_english)](/resources/chapter1/Manual_vol_english.pdf)
 
 + #### Plan GV2050
 
-### ***SECCIÓN 2- TRABAJANDO EN CAMPO***
+### ***TRABAJANDO EN CAMPO***
 
 - ####  Preparándose para el trabajo de campo
   
@@ -54,11 +54,11 @@ Descargar version en [(PDF_english)](/resources/chapter1/Manual_vol_english.pdf)
   
 + #### Protocolo de análisis de productividad en agricultura
 
-### ***SECCIÓN 3 – CULTIVO Y CUIDADO DE PLANTAS EN LA FCD***
+### ***CULTIVO Y CUIDADO DE PLANTAS EN LA FCD***
 
 - #### Cuidado de plantas en el laboratorio  GV2050 y vivero
   
-### ***SECCIÓN 4 – OTROS***
+### ***OTROS***
 
 + #### Automóvil eléctrico GV2050 
   
@@ -75,6 +75,6 @@ Descargar version en [(PDF_english)](/resources/chapter1/Manual_vol_english.pdf)
   
   - Cargar coordenadas con etiquetas de código (ID de plantación) a unidad GPS
 
-### _**SECCIÓN 5 – OTROS RECURSOS**_
+### _**OTROS RECURSOS**_
 
 ### _**REFERENCIAS**_

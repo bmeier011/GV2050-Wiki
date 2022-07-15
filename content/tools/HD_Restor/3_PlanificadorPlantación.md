@@ -23,14 +23,14 @@ Para usar esta herramienta se deben específicar factores determinados que permi
 
 Despúes de introducir todos los número correspondientes al diseño, presionar en 'Generar estimación'.
 
-<img src="/resources/hd_restor/Fig10_Restor.png" width='650'/>
+<img src="/tools/hd_restor/Fig10_Restor.png" width='650'/>
 
 <p style='text-align:justify;'>
 Los resultados de la estimación se muestran en dos recuadros adyacentes.
 El primero muestra las cifras del tiempo en horas por personas y días que se necesitarían para desarrollar la actividad, y un rango del costo total estimados para la expedición.
 En el segundo recuadro se encuentra un gráfico que muestra la relación del costo de la expedición con el número de personas utilizadas para el trabajo.
 
-<img src="/resources/hd_restor/Fig11_Restor.png" width='650'/>
+<img src="/tools/hd_restor/Fig11_Restor.png" width='650'/>
 
 
 

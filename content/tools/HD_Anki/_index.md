@@ -11,6 +11,8 @@ weight: 2
 
 ## ¿Qué es Anki?
 
+<img src="anki.png" width=200 style="float: right; margin-top: 0rem; margin-bottom:0rem; padding:0rem;"/>
+
 <p style='text-align:justify;'>
 Anki es un programa para memorizar utilizando tarjetas que facilita el recuerdo de las cosas. Utiliza la técnica de la repetición espaciada, debido a que es mucho más eficiente que los métodos de estudio tradicionales, puede disminuir en gran medida el tiempo dedicado a estudiar o aumentar en gran medida la cantidad que aprende.</p>
 

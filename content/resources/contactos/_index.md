@@ -1,12 +1,12 @@
 ---
-date: "2022-09-09T00:00:00Z"
+date: "2021-09-09T00:00:00Z"
 icon: book
 icon_pack: fas
 linktitle: Contactos
 summary: Learn how to use Wowchemy's docs layout for publishing online courses, software documentation, and tutorials.
 title: Contactos
 type: book
-weight: 3
+weight: 1
 ---
 
 ## Contactos del equipo GV2050.
@@ -36,7 +36,7 @@ weight: 3
 </tr>
 <tr>
   <td>Anna Calle</td>
-  <td>xxxxxxxxxxx</td>
+  <td>0104059431</td>
   <td style='text-align: center;'>staff</td>
   <td>+593 98 424 8858</td>
   <td>anna.calle@fcdarwin.org.ec</td>
@@ -92,7 +92,7 @@ weight: 3
 </tr>
 <tr>
   <td>Cármen Sevillano</td>
-  <td>xxxxxxxxxxx</td>
+  <td>PAN368897</td>
   <td>Voluntaria</td>
   <td>+34 618 65 61 35</td>
   <td>carmencitasdc30@gmail.com</td>

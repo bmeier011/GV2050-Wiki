@@ -1,12 +1,12 @@
 ---
-date: "2018-09-09T00:00:00Z"
+date: "2022-06-09T00:00:00Z"
 icon: book
 icon_pack: fas
 linktitle: Plataforma virtual
 summary: Learn how to use Wowchemy's docs layout for publishing online courses, software documentation, and tutorials.
 title: Plataforma virtual
 type: book
-weight: 1
+weight: 3
 ---
 
 **Manual de Usuario de la Plataforma Virtual de Administración del Proyecto Galápagos Verde 2050**
@@ -17,4 +17,4 @@ actualizaciones constantes en el proyecto a través de medios electrónicos. De
 la misma forma mantener informado al público en general acerca del objetivo 
 del proyecto Galápagos Verde 2050 (GV2050) y su avance.
 
-Descargar documento [PDF](/resources/chapter1/manual_admin_2016.pdf)
+Descargar documento [PDF](/manuals/manual_plataforma/manual_admin_2016.pdf)

@@ -1,12 +1,12 @@
 ---
-date: "2022-09-09T00:00:00Z"
+date: "2021-09-09T00:00:00Z"
 icon: bars
 icon_pack: fas
 linktitle: Publicaciones GV2050
 summary: Recopilación de libros, articulos y guías publicadas por el proyecto.
 title: Bibliografía publicada por Galápagos Verde 2050
 type: book
-weight: 1
+weight: 3
 ---
 
 

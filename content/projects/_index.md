@@ -6,4 +6,77 @@ type: book
 
 El programa GV2050 está compuesto por siete proyectos de investigación, enfocados en la restauración ecológica de ecosistemas degradados en siete islas diferentes.
 
-{{< cta cta_text="👉 Get Started with Española" cta_link="espanola" >}}
+En la siguiente tabla, se muestran los detalles de los 7 proyectos:
+
+<table style='width: 100%; margin-top: 0rem; overflow: hidden;'>
+<tr>
+<th style='width: 24%; text-align: center; vertical-align: middle; font-size: 0.7rem;'>Nombre del proyecto</th>
+<th style='width: 20%; text-align: center; vertical-align: middle; font-size: 0.7rem;'>Isla</th>
+<th style="width: 16%; text-align: center; vertical-align: middle; font-size: 0.7rem;">Nro. de permiso</th>
+<th style="width: 10%; text-align: center; vertical-align: middle; font-size: 0.7rem;">Propuesta (PDF)</th>
+<th style="width: 16%; text-align: center; vertical-align: middle; font-size: 0.7rem;">Permiso autorizado por la DPNG (PDF)</th>
+<th style="width: 10%; text-align: center; vertical-align: middle; font-size: 0.7rem;">Anexo de muestra</th>
+</tr>
+<tbody style="border: 1px solid rgba(100, 200, 0, 0.3);">
+<tr>
+  <td style="font-size: 0.7rem; vertical-align: middle;">Manejo adaptativo para recuperación de O. megasperma</td>
+  <td style="font-size: 0.7rem; text-align: center; vertical-align: middle;">Española</td>
+  <td style="text-align: center; vertical-align: middle;">PC-13-22</td>
+  <td style="text-align: center; vertical-align: middle;"><a href="/projects/1.pdf">PDF</a></td>
+  <td style="text-align: center; vertical-align: middle;"><a href="/projects/pc-13-22.pdf">PDF</a></td>
+  <td style="text-align: center; vertical-align: middle;"><a href="/projects/anexo_1_esp.pdf">PDF</a></td>
+</tr>
+<tr>
+  <td style="font-size: 0.7rem; vertical-align: middle;">Evaluación de factores bióticos y abióticos en restauración 
+de O. echios</td>
+  <td style="font-size: 0.7rem; text-align: center; vertical-align: middle;">Plaza Sur</td>
+  <td style="text-align: center; vertical-align: middle;">PC-38-22</td>
+  <td style="text-align: center; vertical-align: middle;"><a href="/projects/2.pdf">PDF</a></td>
+  <td style="text-align: center; vertical-align: middle;"><a href="/projects/pc-38-22.pdf">PDF</a></td>
+  <td style="text-align: center; vertical-align: middle;"><a href="/projects/anexo_plaza_sur.pdf">PDF</a></td>
+</tr>
+<tr>
+  <td style="font-size: 0.7rem; vertical-align: middle;">Restauración ecosistemas áridos</td>
+  <td style="font-size: 0.7rem; text-align: center; vertical-align: middle;">Baltra</td>
+  <td style="text-align: center; vertical-align: middle;">PC-22-22</td>
+  <td style="text-align: center; vertical-align: middle;"><a href="/projects/3.pdf">PDF</a></td>
+  <td style="text-align: center; vertical-align: middle;"><a href="/projects/pc-22-22.pdf">PDF</a></td>
+  <td style="text-align: center; vertical-align: middle;"><a href="/projects/anexo_baltra.pdf">PDF</a></td>
+</tr>
+<tr>
+  <td style="font-size: 0.7rem; vertical-align: middle;">Restauración ecológica urbana</td>
+  <td style="font-size: 0.7rem; text-align: center; vertical-align: middle;">Santa Cruz, San Cristóbal, Floreana</td>
+  <td style="text-align: center; vertical-align: middle;">PC-24-22</td>
+  <td style="text-align: center; vertical-align: middle;"><a href="/projects/4.pdf">PDF</a></td>
+  <td style="text-align: center; vertical-align: middle;"><a href="/projects/pc-24-22.pdf">PDF</a></td>
+  <td style="text-align: center; vertical-align: middle;"><a href="/projects/anexo_urbana.pdf">PDF</a></td>
+</tr>
+<tr>
+  <td style="font-size: 0.7rem; vertical-align: middle;">Especies en peligro de extinción</td>
+  <td style="font-size: 0.7rem; text-align: center; vertical-align: middle;">Santa Cruz, San Cristóbal, Floreana, Isabela Norte, Española</td>
+  <td style="text-align: center; vertical-align: middle;">PC-15-22</td>
+  <td style="text-align: center; vertical-align: middle;"><a href="/projects/5.pdf">PDF</a></td>
+  <td style="text-align: center; vertical-align: middle;"><a href="/projects/pc-15-22.pdf">PDF</a></td>
+  <td style="text-align: center; vertical-align: middle;"><a href="/projects/anexo_especies_ame.pdf">PDF</a></td>
+</tr>
+<tr>
+  <td style="font-size: 0.7rem; vertical-align: middle;">Restauración ecológica rural</td>
+  <td style="font-size: 0.7rem; text-align: center; vertical-align: middle;">Santa Cruz, San Cristóbal, Floreana</td>
+  <td style="text-align: center; vertical-align: middle;">PC-14-22</td>
+  <td style="text-align: center; vertical-align: middle;"><a href="/projects/6.pdf">PDF</a></td>
+  <td style="text-align: center; vertical-align: middle;"><a href="/projects/pc-14-22.pdf">PDF</a></td>
+  <td style="text-align: center; vertical-align: middle;"><a href="/projects/anexo_rural.pdf">PDF</a></td>
+</tr>
+<tr>
+  <td style="font-size: 0.7rem; vertical-align: middle;">Restauración Zonas de Uso Especial</td>
+  <td style="font-size: 0.7rem; text-align: center; vertical-align: middle;">Baltra, Floreana</td>
+  <td style="text-align: center; vertical-align: middle;">PC-33-22</td>
+  <td style="text-align: center; vertical-align: middle;"><a href="/projects/7.pdf">PDF</a></td>
+  <td style="text-align: center; vertical-align: middle;"><a href="/projects/pc-33-22.pdf">PDF</a></td>
+  <td style="text-align: center; vertical-align: middle;"><a href="/projects/anexo_zue.pdf">PDF</a></td>
+</tr>
+</tbody>
+</table>
+
+
+{{< cta cta_text="Get Started with Española 🌵 " cta_link="espanola" >}}

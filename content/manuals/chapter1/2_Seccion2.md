@@ -1,6 +1,6 @@
 ---
 date: "2019-05-05T00:00:00+01:00"
-linktitle: Trabjando en el campo
+linktitle: Trabajando en el campo
 title: Trabjando en el campo
 type: book
 weight: 2
@@ -326,7 +326,7 @@ La tecnología Cocoon consiste en un recipiente y una tapa biodegradables diseñ
 
 <img src="/manuals/chapter1/Fig16_17.jpg" width=550 style="margin-bottom:3rem;"/>
 
-### Tecnología GrowBox
+### Tecnología GrowBoxx
 
 <p style='margin-top:2rem;'>
 <img src="/manuals/chapter1/Fig18.jpg" width=250 style="float: right; margin-top:0rem;"/>

@@ -17,7 +17,7 @@ Para utilizar esta herramienta se debe especificar:
 + Uno o más sitios de siembra
 
 
-<img src="/resources/hd_restor/Fig4_Restor.png" width='150'/>
+<img src="/tools/hd_restor/Fig4_Restor.png" width='150'/>
 
 
 #### Resultados
@@ -26,26 +26,26 @@ Para utilizar esta herramienta se debe especificar:
 Una vez definido las fechas, las especies, los tratamiento y los sitios, tres recuadros en pantalla muestran la datos del número de individuos sembrados según esas especificaciones.
 
 
-<img src="/resources/hd_restor/Fig5_Restor.png" width='150'/>
+<img src="/tools/hd_restor/Fig5_Restor.png" width='150'/>
 
 <p style='text-align:justify;'>
 También es posible visualizar el gráfico de un análisis estadístico de supervivencia de Kaplan-Meier, donde muestra la probabilidad de supervivencia en el tiempo de los invidudos plantados, de las especies seleccionadas, desde que se sembraron y según el tratamiento escogido.
 
-<img src="/resources/hd_restor/Fig6_Restor.png" width='150'/>
+<img src="/tools/hd_restor/Fig6_Restor.png" width='150'/>
 
 <p style='text-align:justify;'>
 Más abajo se presenta un mapa con los sitios de siembra que se escogieron y donde se muestra la ubicación de los invididuos sembrados, de diferente color según el tratamiento seleccionado.
 
-<img src="/resources/hd_restor/Fig7_Restor.png" width='150'/>
+<img src="/tools/hd_restor/Fig7_Restor.png" width='150'/>
 
 <p style='text-align:justify;'>
 En la parte inferior hay un sección para conocer las jornadas de trabajo de campo que ha realizado el equipo de GV2050. Si seleccionamos un año de interés se nos muestra en un diagrama con todos los días del año seleccionado, en los cuales se realizaron actividades en el campo.
 
-<img src="/resources/hd_restor/Fig8_Restor.png" width='150'/>
+<img src="/tools/hd_restor/Fig8_Restor.png" width='150'/>
 
 <p style='text-align:justify;'>
 Por último, en la sección final, de igual manera si seleccionamos un año, un tabla nos muestra un resumen anual de la época del año en las que el proyecto trabajó en determinadas islas.
 
-<img src="/resources/hd_restor/Fig9_Restor.png" width='150'/>
+<img src="/tools/hd_restor/Fig9_Restor.png" width='150'/>
 
 

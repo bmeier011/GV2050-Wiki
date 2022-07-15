@@ -2,8 +2,8 @@
 date: "2022-06-09T00:00:00Z"
 icon: heart
 icon_pack: fas
-linktitle: Links
-title: Links
+linktitle: Favoritos
+title: Favoritos
 type: book
 weight: 2
 ---
