@@ -6,7 +6,7 @@ linktitle: Contactos
 summary: Learn how to use Wowchemy's docs layout for publishing online courses, software documentation, and tutorials.
 title: Contactos
 type: book
-weight: 3
+weight: 1
 ---
 
 ## Contactos del equipo GV2050.
@@ -36,7 +36,7 @@ weight: 3
 </tr>
 <tr>
   <td>Anna Calle</td>
-  <td>xxxxxxxxxxx</td>
+  <td>0104059431</td>
   <td style='text-align: center;'>staff</td>
   <td>+593 98 424 8858</td>
   <td>anna.calle@fcdarwin.org.ec</td>

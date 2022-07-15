@@ -6,7 +6,7 @@ linktitle: Publicaciones GV2050
 summary: Recopilación de libros, articulos y guías publicadas por el proyecto.
 title: Bibliografía publicada por Galápagos Verde 2050
 type: book
-weight: 1
+weight: 3
 ---
 
 

@@ -27,7 +27,7 @@ cta_note:
 <p style='font-size:1rem;'>
 Bienvenido a la comunidad virtual del programa GV2050, aquí encontrarás:
 <ul>
-<li>Manuales de uso
+<li>Manuales de uso de equipos
 <li>Información a cerca de proyectos
 <li>Protocolos
 <li>Herramientas
