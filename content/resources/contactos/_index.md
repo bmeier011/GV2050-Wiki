@@ -29,7 +29,7 @@ weight: 1
 </tr>
 <tr>
   <td>David Cevallos</td>
-  <td>xxxxxxxxxxx</td>
+  <td>1716316813</td>
   <td style='text-align: center;'>staff</td>
   <td>+36 20 434 0774</td>
   <td>david.cevallos@fcdarwin.org.ec</td>
@@ -64,7 +64,7 @@ weight: 1
 </tr>
 <tr>
   <td>Maira Gómez</td>
-  <td>xxxxxxxxxxx</td>
+  <td>0503052953</td>
   <td style='text-align: center;'>staff</td>
   <td>+593 98 695 5807</td>
   <td>maira.gomez@fcdarwin.org.ec</td>
