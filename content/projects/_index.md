@@ -254,8 +254,8 @@ de O. echios</td>
 <td>24</td>
 <td>San Cristóbal</td>
 <td>Colegio Alejandro-Humboldt</td>
-<td>-89.608022/td>
-<td>-0.904128294<</td>
+<td>-89.608022</td>
+<td>-0.904128294</td>
 </tr>
 <tr>
 <td>25</td>
