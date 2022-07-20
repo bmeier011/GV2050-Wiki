@@ -142,8 +142,8 @@ de O. echios</td>
 <td>8</td>
 <td>Española</td>
 <td>Manzanillo</td>
-<td>x</td>
-<td>y</td>
+<td>-89.699406</td>
+<td>-1.34665</td>
 </tr>
 <tr>
 <td>9</td>

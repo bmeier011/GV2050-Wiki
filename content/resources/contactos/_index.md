@@ -13,10 +13,10 @@ weight: 1
 
 <table style='border: 1px solid gray; width: 100%; margin-top: 0rem; overflow: hidden;'>
 <tr>
-<th style='width: 25%;'>Name</th>
+<th style='width: 30%;'>Name</th>
 <th style='width: 10%;'>CI/Passport</th>
 <th style="text-align: center; width: 5%;">Cargo</th>
-<th style="width: 45%;">Teléfono</th>
+<th style="width: 40%;">Teléfono</th>
 <th style="text-align: center; width: 15%;">Mail</th>
 </tr>
 <tbody style="border: 1px solid rgba(100, 200, 0, 0.3);">
@@ -76,11 +76,11 @@ weight: 1
 
 <table style='border: 1px solid gray; width: 100%; margin-top: 0rem; overflow: hidden;'>
 <tr>
-<th style='width: 25%;'>Name</th>
+<th style='width: 38%;'>Name</th>
 <th style='width: 10%;'>CI/Passport</th>
 <th style="text-align: center; width: 5%;">Cargo</th>
-<th style="width: 45%;">Teléfono</th>
-<th style="text-align: center; width: 15%;">Mail</th>
+<th style="width: 37%;">Teléfono</th>
+<th style="text-align: center; width: 10%;">Mail</th>
 </tr>
 <tbody style="border: 1px solid rgba(100, 200, 0, 0.3);">
 <tr>
@@ -125,10 +125,10 @@ weight: 1
 
 <table style='border: 1px solid gray; width: 100%; margin-top: 0rem; overflow: hidden;'>
 <tr>
-<th style='width: 25%;'>Name</th>
+<th style='width: 30%;'>Name</th>
 <th style='width: 10%;'>CI/Passport</th>
 <th style="text-align: center; width: 5%;">Cargo</th>
-<th style="width: 45%;">Teléfono</th>
+<th style="width: 44%;">Teléfono</th>
 <th style="text-align: center; width: 15%;">Mail</th>
 </tr>
 <tbody style="border: 1px solid rgba(100, 200, 0, 0.3);">
