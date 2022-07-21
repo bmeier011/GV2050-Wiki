@@ -9,27 +9,27 @@ type: book
 weight: 1
 ---
 
-## Contactos del equipo GV2050.
+## Staffs del programa GV2050.
 
 <table style='border: 1px solid gray; width: 100%; margin-top: 0rem; overflow: hidden;'>
 <tr>
-<th style='width: 25%;'>Name</th>
+<th style='width: 30%;'>Name</th>
 <th style='width: 10%;'>CI/Passport</th>
 <th style="text-align: center; width: 5%;">Cargo</th>
-<th style="width: 45%;">Teléfono</th>
+<th style="width: 40%;">Teléfono</th>
 <th style="text-align: center; width: 15%;">Mail</th>
 </tr>
 <tbody style="border: 1px solid rgba(100, 200, 0, 0.3);">
 <tr>
   <td>Patricia Jaramillo</td>
-  <td>xxxxxxxxxxx</td>
+  <td>1710646165</td>
   <td style='text-align: center;'>staff</td>
   <td>+593 99 729 8781</td>
   <td>patricia.jaramillo@fcdarwin.org.ec</td>
 </tr>
 <tr>
   <td>David Cevallos</td>
-  <td>xxxxxxxxxxx</td>
+  <td>1716316813</td>
   <td style='text-align: center;'>staff</td>
   <td>+36 20 434 0774</td>
   <td>david.cevallos@fcdarwin.org.ec</td>
@@ -64,11 +64,25 @@ weight: 1
 </tr>
 <tr>
   <td>Maira Gómez</td>
-  <td>xxxxxxxxxxx</td>
+  <td>0503052953</td>
   <td style='text-align: center;'>staff</td>
   <td>+593 98 695 5807</td>
   <td>maira.gomez@fcdarwin.org.ec</td>
 </tr>
+</tbody>
+</table>
+
+## Voluntarios del programa GV2050.
+
+<table style='border: 1px solid gray; width: 100%; margin-top: 0rem; overflow: hidden;'>
+<tr>
+<th style='width: 38%;'>Name</th>
+<th style='width: 10%;'>CI/Passport</th>
+<th style="text-align: center; width: 5%;">Cargo</th>
+<th style="width: 37%;">Teléfono</th>
+<th style="text-align: center; width: 10%;">Mail</th>
+</tr>
+<tbody style="border: 1px solid rgba(100, 200, 0, 0.3);">
 <tr>
   <td>Humberto Díaz</td>
   <td>1311420887</td>
@@ -103,6 +117,34 @@ weight: 1
   <td>Voluntaria</td>
   <td>+34 690 15 96 76</td>
   <td>yaielburgo@gmail.com</td>
+</tr>
+</tbody>
+</table>
+
+## Contactos del Herbario
+
+<table style='border: 1px solid gray; width: 100%; margin-top: 0rem; overflow: hidden;'>
+<tr>
+<th style='width: 30%;'>Name</th>
+<th style='width: 10%;'>CI/Passport</th>
+<th style="text-align: center; width: 5%;">Cargo</th>
+<th style="width: 44%;">Teléfono</th>
+<th style="text-align: center; width: 15%;">Mail</th>
+</tr>
+<tbody style="border: 1px solid rgba(100, 200, 0, 0.3);">
+<tr>
+  <td>Justine Villalba</td>
+  <td>1725861551</td>
+  <td style='text-align: center;'>staff</td>
+  <td>+593 98 409 8576</td>
+  <td>justine.villalba@fcdarwin.org.ec</td>
+</tr>
+<tr>
+  <td>Tania Villafuerte</td>
+  <td>2000129631</td>
+  <td style='text-align: center;'>staff</td>
+  <td>+593 98 510 3434</td>
+  <td>tania.villafuerte@fcdarwin.org.ec</td>
 </tr>
 </tbody>
 </table>
