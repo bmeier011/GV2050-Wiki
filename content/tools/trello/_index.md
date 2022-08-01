@@ -15,7 +15,7 @@ weight: 4
 
 <p style='text-align:justify;'>Trello es una herramienta flexible para la gestión del trabajo, con la que los equipos pueden diseñar planes, colaborar en proyectos, organizar flujos de trabajo y hacer un seguimiento del progreso de una manera visual, productiva y gratificante.
 
-**ventajas de usar Trello**
+**Ventajas de usar Trello**
 
 + Evita interrupciones de comunicación
 + Ahorra tiempo y optimiza la calidad del trabajo
@@ -32,5 +32,5 @@ donde se puede acceder al mismo, haciendo click al enlace se muestra en la parte
 Trello del GV2050:
 [https://trello.com/b/roeajQ3g/galapagos-verde-2050-project](https://trello.com/b/roeajQ3g/galapagos-verde-2050-project)
 
-Encontrarás myor información con respecto al uso de Trello accediendo al siguiente enlace:
+Encontrarás mayor información con respecto al uso de Trello accediendo al siguiente enlace:
 [https://blog.trello.com/es/como-usar-trello](https://blog.trello.com/es/como-usar-trello)

@@ -12,7 +12,7 @@ weight: 7
 
 ### Restauración ecológica en Sitios de Uso Especial: Evaluación de la diversidad en áreas naturales e intervenidas.
 
-<img src="/projects/sitios_uso_e1.jpeg" width=640 style="margin-bottom:1rem;"/>
+<img src="/projects/sitios_uso_e1.jpeg" width=440 style="margin-bottom:1rem;"/>
 
 
 **Objetivo General**

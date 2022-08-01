@@ -11,7 +11,7 @@ weight: 3
 
 ### Restauración ecológica de la isla Baltra: desarrollo de un método de restauración de ecosistemas áridos aplicable a gran escala
 
-<img src="/projects/baltra1.jpeg" width=640 style="margin-bottom:1rem;"/>
+<img src="/projects/baltra1.jpeg" width=440 style="margin-bottom:1rem;"/>
 
 
 **Objetivo General**
