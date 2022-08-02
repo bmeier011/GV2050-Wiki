@@ -12,7 +12,7 @@ weight: 5
 
 ### Recuperación de Especies en Peligro de Extinción en Áreas Protegidas del Parque Nacional Galápagos
 
-<img src="/projects/EP.jpg" width=640 style="margin-bottom:1rem;"/>
+<img src="/projects/EP.jpg" width=440 style="margin-bottom:1rem;"/>
 
 
 **Objetivo General**
@@ -20,7 +20,6 @@ weight: 5
 Contribuir a la conservación de ecosistemas terrestres de Galápagos a través de la 
 recuperación de especies en peligro de extinción dentro de las áreas protegidas del 
 Parque Nacional Galápagos.
-
 
 **Objetivos específicos**
 <p style='margin-top:-1rem; text-align:justify;'>

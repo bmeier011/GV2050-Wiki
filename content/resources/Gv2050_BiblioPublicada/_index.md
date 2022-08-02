@@ -26,7 +26,7 @@ weight: 3
 ## Guías y planes de acción
 
 + **Apr 2021** - Guía de Semillas y Propágulos de Galápagos [(PDF)](GuiaSemillas.pdf)
-+ **May 2018** - Gal+apagos Verde 2050 (POSTER) [(PDF)](GV2050_poster.pdf)
++ **May 2018** - Galápagos Verde 2050 (POSTER) [(PDF)](GV2050_poster.pdf)
 + **Oct 2017** - Action Plan for the Ecological Restoration of Baltra and Plaza Sur Islands [(PDF)](PlanAccion_Baltra) (english)
 
 ## Blogs 

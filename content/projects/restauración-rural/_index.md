@@ -12,7 +12,7 @@ weight: 6
 
 ### Restauración ecológica rural: Desarrollo de los agroecosistemas para la conservación de las zonas colindantes al Parque Nacional Galápagos en las Islas Santa Cruz, San Cristóbal, y Floreana.
 
-<img src="/projects/restauracion_r1.jpeg" width=640 style="margin-bottom:1rem;"/>
+<img src="/projects/restauracion_r1.jpeg" width=440 style="margin-bottom:1rem;"/>
 
 
 **Objetivo General**

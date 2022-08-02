@@ -12,7 +12,7 @@ weight: 4
 
 ### Restauración ecológica urbana y conservación de especies emblemáticas de la mano con la comunidad local en las islas Galápagos
 
-<img src="/projects/restauracion_u.jpg" width=640 style="margin-bottom:1rem;"/>
+<img src="/projects/restauracion_u.jpg" width=440 style="margin-bottom:1rem;"/>
 
 
 **Objetivo General**

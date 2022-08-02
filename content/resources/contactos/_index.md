@@ -91,13 +91,6 @@ weight: 1
   <td>hdiazm@est.ups.edu.ec</td>
 </tr>
 <tr>
-  <td>Beatriz Triano</td>
-  <td>PAN313954</td>
-  <td>Voluntaria</td>
-  <td>+34 619 01 69 41</td>
-  <td>beatriztndc@gmail.com</td>
-</tr>
-<tr>
   <td>Fernando Fernández</td>
   <td>PAN495881</td>
   <td>Voluntario</td>
