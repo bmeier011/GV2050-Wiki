@@ -9,7 +9,7 @@ type: book
 weight: 3
 ---
 
-Enlace hacia la aplicación [(Click aquí)](https://gv2050.shinyapps.io/gv2050-platform-submission/)
+Enlace hacia la aplicación [(Click aquí)](https://gv2050.shinyapps.io/GV2050-restoR/)
 
 <img src="Fig1_Restor.png" width='150' style='float:right'/>
 
