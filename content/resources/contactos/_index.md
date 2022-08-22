@@ -106,7 +106,7 @@ weight: 1
 </tr>
 <tr>
   <td>Yaiza Romero</td>
-  <td>xxxxxxxxxxx</td>
+  <td>PAN366136</td>
   <td>Voluntaria</td>
   <td>+34 690 15 96 76</td>
   <td>yaielburgo@gmail.com</td>
