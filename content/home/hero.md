@@ -2,7 +2,7 @@
 widget: hero
 headless: true
 weight: 10
-title: Galapagos Verde 2050 Project Wiki
+title: Galapagos Verde 2050 Program Wiki
 hero_media: Logo_Final.png
 design:
   background:
