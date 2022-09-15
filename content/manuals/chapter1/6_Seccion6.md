@@ -25,6 +25,7 @@ Quizá podría ser un blog o una publicación en redes sociales.</p>
 
 Aquí te presentamos unos ejemplos de publicaciones en redes sociales del GV2050.
 
-*Guía para la escritura de posts del GV2050 para redes sociales: [PDF](/manuals/chapter1/post_GV2050.pdf)*
+<ul>
+<li><a href="(/manuals/chapter1/post_GV2050.pdf)">Guía para la escritura de posts del GV2050 para redes sociales</a>
 
-*Post de viaje a Isabela Norte por el GV2050: [PDF](/manuals/chapter1/post_isabela.pdf)*
+<li><a href="(/manuals/chapter1/post_isabela.pdf)">Post de viaje a Isabela Norte por el GV2050</a>
