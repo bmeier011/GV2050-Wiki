@@ -18,7 +18,7 @@ Los esterosmicrosopio son instrumentos ópticos que utilizan el aumento y la ilu
 <p style="text-align: justify;">
 Use el sistema solo en salas cerradas, libres de polvo y entre +10 °C y +40 °C. Proteja el equipo del aceite, los productos químicos y un exceso de humedad. Debe estar a una distancia mínima de 10 cm de la pared y de cualquier objeto inflamable.</p>
 
-*Accede al manual completo [PDF](/manuals/manual_equipo/leica.pdf)*
+*Accede al manual completo en [PDF](/manuals/manual_equipo/leica.pdf)*
 
 ### Adquisición de imágenes ###
 
