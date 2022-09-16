@@ -22,4 +22,4 @@ El control remoto ofrece un alcance de transmisión máximo de 10 km y permite e
 <p style="text-align: justify;">
 El Mavic Air 2 tiene una velocidad máxima de vuelo de 68 km/h (42 mph) y un tiempo de vuelo máximo de 34 minutos, mientras que el tiempo de funcionamiento máximo del control remoto es de 6 horas.</p>
 
-*Accede al manual completo [PDF](/manuals/manual_equipo/mavic_air2_español.pdf)*
+*Accede al manual completo en [PDF](/manuals/manual_equipo/mavic_air2_español.pdf)*

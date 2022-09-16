@@ -69,6 +69,13 @@ weight: 1
   <td>+593 98 695 5807</td>
   <td>maira.gomez@fcdarwin.org.ec</td>
 </tr>
+<tr>
+  <td>Nicolás Velasco</td>
+  <td>F20620041</td>
+  <td style='text-align: center;'>staff</td>
+  <td>+56 9 9352 2541</td>
+  <td>nicolas.velasco@fcdarwin.org.ec</td>
+</tr>
 </tbody>
 </table>
 
@@ -91,14 +98,7 @@ weight: 1
   <td>hdiazm@est.ups.edu.ec</td>
 </tr>
 <tr>
-  <td>Fernando Fernández</td>
-  <td>PAN495881</td>
-  <td>Voluntario</td>
-  <td>+34 680 73 42 90</td>
-  <td>fern7ando@gmail.com</td>
-</tr>
-<tr>
-  <td>Cármen Sevillano</td>
+  <td>Carmen Sevillano</td>
   <td>PAN368897</td>
   <td>Voluntaria</td>
   <td>+34 618 65 61 35</td>

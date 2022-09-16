@@ -28,6 +28,10 @@ Con el objetivo de hacer tu interacción con el GV2050 más eficiente, te sugeri
 
 [https://github.com/GalapagosVerde2050](https://github.com/GalapagosVerde2050)
 
+<li>NAS (FCD)
+
+[https://nas1.fcdarwin.org.ec:5001/](https://nas1.fcdarwin.org.ec:5001/)
+
 <li>Actividades de Staffs
 
 [https://docs.google.com/spreadsheets/d/12XQQ3hgoviHLhhPzKJ6bsbqk38Qo0gkt/edit#gid=761884554](https://docs.google.com/spreadsheets/d/12XQQ3hgoviHLhhPzKJ6bsbqk38Qo0gkt/edit#gid=761884554)
