@@ -18,14 +18,12 @@ Quizá podría ser un blog o una publicación en redes sociales.</p>
 
 ## Publicaciones en redes sociales
 <img src="/manuals/chapter1/redes_s.jpg" width=45% height=45% style="display: inline; margin-top: 0rem; margin-bottom: 0rem;"/>
-<img src="/manuals/chapter1/redes_s.jpg" width=45% height=45% style="display: inline; margin-top: 0rem; margin-bottom: 0rem;"/>
 
 <p style="text-align: justify;">La divulgación científica es una tarea abordada por escritores, científicos, museos y periodistas de los medios de comunicación. Y en esta era, la de las redes sociales, no podemos evitar pensar en el papel que el social media ha tenido para difundir los conocimientos científicos con la comunidad.
 
 
 Aquí te presentamos unos ejemplos de publicaciones en redes sociales del GV2050.
 
-<ul>
-<li><a href="(/manuals/chapter1/post_GV2050.pdf)">Guía para la escritura de posts del GV2050 para redes sociales</a>
+*Guía para la escritura de posts del GV2050 para redes sociales* [PDF](/manuals/chapter1/post_GV2050.pdf)
 
-<li><a href="(/manuals/chapter1/post_isabela.pdf)">Post de viaje a Isabela Norte por el GV2050</a>
+*Post de viaje a Isabela Norte por el GV2050* [PDF](/manuals/chapter1/post_isabela.pdf)

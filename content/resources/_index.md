@@ -3,8 +3,25 @@ title: Resources
 toc: false
 type: book
 ---
-
 El GV2050 ofrece los siguientes recursos disponibles.
+
+### Plan de Manejo de las Áreas Protegidas  de Galápagos para el BUEN VIVIR 
+<p style="text-align: justify;">Este plan promueve como uno de los aspectos más importantes para garantizar un buen futuro de la población local, el mantenimiento de la integridad ecológica y la resiliencia de los ecosistemas, y como tal su capacidad de generar de forma permanente un rico y variado flujo de servicios y funciones para el sostenimiento de la población humana del archipiélago, pues lo cierto es que en el presente y de cara al futuro de Galápagos no hay conservación posible sin desarrollo, ni desarrollo sin conservación.
+
+Leer más en la versión comppleta en [PDF](/resources/plan_de_manejo.pdf) 
+
+### Protocolos para viajes de campo y campamentos en las Islas Galápagos 
+<p style="text-align: justify;">La constante demanda de información y la imperiosa necesidad de incrementar las acciones de investigación aplicadas al manejo del Parque Nacional Galápagos (PNG) y la Reserva Marina de Galápagos (RMG) hacen necesarias establecer un Protocolo de Campo para contribuir a la conservación y restauración de la integridad y la biodiversidad del archipiélago.
+
+Leer más en la versión comppleta en [PDF](/resources/protocolo.pdf)
+
+### Presentaciones semanales
+
+<p style="text-align: justify;">A modo de que todo el equipo GV2050 esté al tanto de las actividades que se están realizando, por parte de los integrantes del GV2050; cada martes, dos personas realizarán una presentación cada una, con respecto a un tema o actividad que esté a su cargo. La ponencia deberá estar programada para una duración de 15 minutos incluyendo preguntas.</p>
+
+<p style="text-align: justify;">El siguiente enlace te llevará al documento compartido, donde se administra el calendario con el tema y ponentes:</p>
+
+[https://docs.google.com/spreadsheets/d/15xLg5vBlIj0OZKASYYsbntf12Q9-P-4Xnkfnf_3am0I/edit?usp=sharing](https://docs.google.com/spreadsheets/d/15xLg5vBlIj0OZKASYYsbntf12Q9-P-4Xnkfnf_3am0I/edit?usp=sharing)
 
 ### Acceso a los Geoportales de la FCD
 <ul>
@@ -28,14 +45,6 @@ El reporte al donante es un reporte trimestral que debe ser entregado en idioma 
 La primera página debe tener un resumen ejecutivo (Executive summary) de 1 hoja A4 y debe estar en letra tamaño 10pt. Mínimo. Este resumen debe tener los key points, problemas, retos, conclusión, etc.
 
 Descargar en [PDF](/manuals/chapter1/Instructivo_Informes_Donante_y_DPNG.pdf)
-
-### Presentaciones semanales
-
-<p style="text-align: justify;">A modo de que todo el equipo GV2050 esté al tanto de las actividades que se están realizando, por parte de los integrantes del GV2050; cada martes, dos personas realizarán una presentación cada una, con respecto a un tema o actividad que esté a su cargo. La ponencia deberá estar programada para una duración de 15 minutos incluyendo preguntas.</p>
-
-<p style="text-align: justify;">El siguiente enlace te llevará al documento compartido, donde se administra el calendario con el tema y ponentes:</p>
-
-[https://docs.google.com/spreadsheets/d/15xLg5vBlIj0OZKASYYsbntf12Q9-P-4Xnkfnf_3am0I/edit?usp=sharing](https://docs.google.com/spreadsheets/d/15xLg5vBlIj0OZKASYYsbntf12Q9-P-4Xnkfnf_3am0I/edit?usp=sharing)
 
 ### Infografía sobre el marco de restauración ecológica
 
