@@ -5,7 +5,7 @@ icon_pack: fas
 linktitle: Favoritos
 title: Favoritos
 type: book
-weight: 2
+weight: 3
 ---
 
 Con el objetivo de hacer tu interacción con el GV2050 más eficiente, te sugerimos agregar los siguientes links a tu zona de *pestañas de favoritos* en tu buscador predilecto.

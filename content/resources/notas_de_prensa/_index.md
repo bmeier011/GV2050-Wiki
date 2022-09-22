@@ -1,9 +1,12 @@
 ---
-date: "2021-11-016T00:00:00+01:00"
+date: "2021-09-09T00:00:00Z"
+icon: book
+icon_pack: fas
 linktitle: Notas de prensa
+summary: Learn how to use Wowchemy's docs layout for publishing online courses, software documentation, and tutorials.
 title: Notas de prensa
 type: book
-weight: 6
+weight: 2
 ---
 <img src="/manuals/chapter1/notas_de_prensa.jpg" width:400 style="float:center; margin-top: 0rem; margin-bottom: 0rem; border: 1px solid;"/>
 <p style="text-align: justify;">La nota de prensa es el medio para informar sobre nuestros resultados y avances científicos a los profesionales de la comunicación de periódicos, radios o televisión. Las notas de prensa nos permiten tener impacto de forma gratuita.</p>
