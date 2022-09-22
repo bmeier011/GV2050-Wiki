@@ -5,12 +5,22 @@ type: book
 ---
 El GV2050 ofrece los siguientes recursos disponibles.
 
-### Plan de Manejo de las Áreas Protegidas  de Galápagos para el BUEN VIVIR 
-<p style="text-align: justify;">Este plan promueve como uno de los aspectos más importantes para garantizar un buen futuro de la población local, el mantenimiento de la integridad ecológica y la resiliencia de los ecosistemas, y como tal su capacidad de generar de forma permanente un rico y variado flujo de servicios y funciones para el sostenimiento de la población humana del archipiélago, pues lo cierto es que en el presente y de cara al futuro de Galápagos no hay conservación posible sin desarrollo, ni desarrollo sin conservación.
+### Informes Y Reportes Técnicos
+
+<ul>
+<li>Caracterización e identificación de los hongos asociados a
+las semillas y a la rizósfera de Lecocarpuslecocarpoides en Punta Manzanillo. <a href="/resources/gv2050_bibliopublicada/informe_hongos.pdf">PDF</a>
+<li>Seymour Norte como ecosistema de referencia para restaurar Baltra - Reporte técnico. <a href="/resources/gv2050_bibliopublicada/reporte_seymour.pdf">PDF</a>
+</ul>
+
+### Plan de Manejo de las Áreas Protegidas  de Galápagos para el BUEN VIVIR
+
+<p style="text-align: justify;">Este plan promueve como uno de los aspectos más importantes para garantizar un buen futuro de la población local, el mantenimiento de la integridad ecológica y la resiliencia de los ecosistemas, y como tal su capacidad de generar de forma permanente un rico y variado flujo de servicios y funciones para el sostenimiento de la población humana del archipiélago, pues lo cierto es que en el presente y de cara al futuro de Galápagos no hay conservación posible sin desarrollo, ni desarrollo sin conservación.</p>
 
 Leer más en la versión comppleta en [PDF](/resources/plan_de_manejo.pdf) 
 
-### Protocolos para viajes de campo y campamentos en las Islas Galápagos 
+### Protocolos para viajes de campo y campamentos en las Islas Galápagos
+
 <p style="text-align: justify;">La constante demanda de información y la imperiosa necesidad de incrementar las acciones de investigación aplicadas al manejo del Parque Nacional Galápagos (PNG) y la Reserva Marina de Galápagos (RMG) hacen necesarias establecer un Protocolo de Campo para contribuir a la conservación y restauración de la integridad y la biodiversidad del archipiélago.
 
 Leer más en la versión comppleta en [PDF](/resources/protocolo.pdf)
