@@ -40,6 +40,11 @@ Leer más en la versión completa en [*PDF*](/resources/plan_de_manejo.pdf)
 
 [https://docs.google.com/spreadsheets/d/15xLg5vBlIj0OZKASYYsbntf12Q9-P-4Xnkfnf_3am0I/edit?usp=sharing](https://docs.google.com/spreadsheets/d/15xLg5vBlIj0OZKASYYsbntf12Q9-P-4Xnkfnf_3am0I/edit?usp=sharing)
 
+### Uso de R y Rstudio
+<img src="/resources/r.jpg" width=400 style="margin-bottom: 0rem; margin-top: 0rem; border:1px solid;"/>
+
+Descarga guía en [*PDF*](/resources/manual_r.pdf)
+
 ### Acceso a los Geoportales de la FCD
 <ul>
 <li>Local
