@@ -8,11 +8,11 @@ El GV2050 ofrece los siguientes recursos disponibles.
 ### Informes Y Reportes Técnicos
 
 <ul>
-<img src="/resources/lecocarpus.jpg" width=300 style="float: right; margin-top:0rem; margin-bottom:5rem; padding:0rem;"/>
+<img src="/resources/lecocarpus.jpg" width=300 style="float: right; margin-top:0rem; margin-bottom:5rem; padding:0rem; border: 1px solid;"/>
 <li style="margin-bottom:2rem;">Caracterización e identificación de los hongos asociados a
 las semillas y a la rizósfera de Lecocarpuslecocarpoides en Punta Manzanillo.<a href="/resources/informe_hongos.pdf"> <i>PDF</i></a></i>
 
-<img src="/resources/seymour.jpg" width=250 style="float: right; margin-top:2rem; margin-bottom:0rem; padding:0em;"/>
+<img src="/resources/seymour.jpg" width=250 style="float: right; margin-top:2rem; margin-bottom:0rem; padding:0em; border: 1px solid;"/>
 
 <li style="margin-top:2rem;">Seymour Norte como ecosistema de referencia para restaurar Baltra - Reporte técnico. <a href="/resources/reporte_seymour.pdf"> <i>PDF</i></a>
 </ul>
