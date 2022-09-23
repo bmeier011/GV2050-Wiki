@@ -8,24 +8,31 @@ El GV2050 ofrece los siguientes recursos disponibles.
 ### Informes Y Reportes Técnicos
 
 <ul>
-<li>Caracterización e identificación de los hongos asociados a
-las semillas y a la rizósfera de Lecocarpuslecocarpoides en Punta Manzanillo. <a href="/resources/gv2050_bibliopublicada/informe_hongos.pdf">PDF</a>
-<li>Seymour Norte como ecosistema de referencia para restaurar Baltra - Reporte técnico. <a href="/resources/gv2050_bibliopublicada/reporte_seymour.pdf">PDF</a>
+<img src="/resources/lecocarpus.jpg" width=300 style="float: right; margin-top:0rem; margin-bottom:5rem; padding:0rem;"/>
+<li style="margin-bottom:2rem;">Caracterización e identificación de los hongos asociados a
+las semillas y a la rizósfera de Lecocarpuslecocarpoides en Punta Manzanillo.<a href="/resources/informe_hongos.pdf"> <i>PDF</i></a></i>
+
+<img src="/resources/seymour.jpg" width=250 style="float: right; margin-top:2rem; margin-bottom:0rem; padding:0em;"/>
+
+<li style="margin-top:2rem;">Seymour Norte como ecosistema de referencia para restaurar Baltra - Reporte técnico. <a href="/resources/reporte_seymour.pdf"> <i>PDF</i></a>
 </ul>
 
-### Plan de Manejo de las Áreas Protegidas  de Galápagos para el BUEN VIVIR
-
-<p style="text-align: justify;">Este plan promueve como uno de los aspectos más importantes para garantizar un buen futuro de la población local, el mantenimiento de la integridad ecológica y la resiliencia de los ecosistemas, y como tal su capacidad de generar de forma permanente un rico y variado flujo de servicios y funciones para el sostenimiento de la población humana del archipiélago, pues lo cierto es que en el presente y de cara al futuro de Galápagos no hay conservación posible sin desarrollo, ni desarrollo sin conservación.</p>
-
-Leer más en la versión comppleta en [PDF](/resources/plan_de_manejo.pdf) 
-
 ### Protocolos para viajes de campo y campamentos en las Islas Galápagos
+<img src="/resources/protocolo.jpg" width=250 style="margin-bottom: 1rem; margin-top: 0rem;"/>
 
 <p style="text-align: justify;">La constante demanda de información y la imperiosa necesidad de incrementar las acciones de investigación aplicadas al manejo del Parque Nacional Galápagos (PNG) y la Reserva Marina de Galápagos (RMG) hacen necesarias establecer un Protocolo de Campo para contribuir a la conservación y restauración de la integridad y la biodiversidad del archipiélago.
 
-Leer más en la versión comppleta en [PDF](/resources/protocolo.pdf)
+Leer más en la versión completa en [PDF](/resources/protocolo.pdf)
+
+### Plan de Manejo de las Áreas Protegidas  de Galápagos para el BUEN VIVIR
+<img src="/resources/plan.jpg" width=400 style="margin-bottom: 1rem; margin-top: 0rem;"/>
+
+<p style="text-align: justify;">Este plan promueve como uno de los aspectos más importantes para garantizar un buen futuro de la población local, el mantenimiento de la integridad ecológica y la resiliencia de los ecosistemas, y como tal su capacidad de generar de forma permanente un rico y variado flujo de servicios y funciones para el sostenimiento de la población humana del archipiélago, pues lo cierto es que en el presente y de cara al futuro de Galápagos no hay conservación posible sin desarrollo, ni desarrollo sin conservación.</p>
+
+Leer más en la versión completa en [*PDF*](/resources/plan_de_manejo.pdf) 
 
 ### Presentaciones semanales
+<img src="/resources/presentacion.jpg" width=400 style="margin-bottom: 0rem; margin-top: 0rem; border:1px solid;"/>
 
 <p style="text-align: justify;">A modo de que todo el equipo GV2050 esté al tanto de las actividades que se están realizando, por parte de los integrantes del GV2050; cada martes, dos personas realizarán una presentación cada una, con respecto a un tema o actividad que esté a su cargo. La ponencia deberá estar programada para una duración de 15 minutos incluyendo preguntas.</p>
 
@@ -57,6 +64,7 @@ La primera página debe tener un resumen ejecutivo (Executive summary) de 1 hoja
 Descargar en [PDF](/manuals/chapter1/Instructivo_Informes_Donante_y_DPNG.pdf)
 
 ### Infografía sobre el marco de restauración ecológica
+<img src="/resources/info.jpg" width=400 style="margin-bottom: 0rem; margin-top: 0rem; border:1px solid;"/>
 
 [https://www.darwinfoundation.org/en/blog-articles/605-preserving-terrestrial-ecosystems-of-the-galapagos-islands](https://www.darwinfoundation.org/en/blog-articles/605-preserving-terrestrial-ecosystems-of-the-galapagos-islands)
 
