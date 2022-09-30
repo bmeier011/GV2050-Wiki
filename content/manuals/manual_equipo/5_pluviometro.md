@@ -5,5 +5,4 @@ title: Pluviómetro
 type: book
 weight: 9
 ---
-
-Este es el pluviómetro de la GV2050...
+Revisar versión completa en [PDF](/manuals/manual_equipo/pluviometro.pdf)

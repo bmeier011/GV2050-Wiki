@@ -91,20 +91,6 @@ weight: 1
 </tr>
 <tbody style="border: 1px solid rgba(100, 200, 0, 0.3);">
 <tr>
-  <td>Humberto Díaz</td>
-  <td>1311420887</td>
-  <td>Voluntario</td>
-  <td>+593 98 897 9387</td>
-  <td>hdiazm@est.ups.edu.ec</td>
-</tr>
-<tr>
-  <td>Carmen Sevillano</td>
-  <td>PAN368897</td>
-  <td>Voluntaria</td>
-  <td>+34 618 65 61 35</td>
-  <td>carmencitasdc30@gmail.com</td>
-</tr>
-<tr>
   <td>Yaiza Romero</td>
   <td>PAN366136</td>
   <td>Voluntaria</td>
