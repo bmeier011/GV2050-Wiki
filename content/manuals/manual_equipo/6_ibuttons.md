@@ -5,4 +5,4 @@ title: OneWireViewer - iButton
 type: book
 weight: 6
 ---
-Los ibuttons son instrumentos...
+Revisar versión completa en [PDF](/manuals/manual_equipo/ibuttons.pdf)

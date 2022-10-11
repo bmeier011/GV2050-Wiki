@@ -10,9 +10,9 @@ weight: 5
 
 <img src="/manuals/chapter1/fotos_nas/10.jpg" width=700 style="float: center; margin-top:0rem; border:1px solid; margin-bottom:0.5rem;"/>
 
-<li>Si tu computadora es personal, te aparecerá esta ventana emergente, en donde tendrás que introducir tu usuario, anteponiendo <b>\\fcdarwin\</b>; luego digita tu contraseña y dale <i>Aceptar</i> :
+<li>Si tu computadora es personal, te aparecerá esta ventana emergente, en donde tendrás que introducir tu usuario, anteponiendo <b>FCDARWIN\</b>; luego digita tu contraseña y dale <i>Aceptar</i> :
 
-<img src="/manuals/chapter1/fotos_nas/18.png" width=400 style="float: center; margin-top:0rem; margin-bottom:0.5rem;"/>
+<img src="/manuals/chapter1/fotos_nas/18.jpg" width=400 style="float: center; margin-top:0rem; margin-bottom:0.5rem;"/>
 
 <li>Una vez accedido, aparecerá esto en tu pantalla; entonces, copia los archivos que desees enviar y pegalos ahí (puedes organizarlos en carpetas).
 
