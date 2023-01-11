@@ -5,12 +5,12 @@ type: book
 ---
 El GV2050 ofrece los siguientes recursos disponibles.
 
-### Informes Y Reportes Técnicos
+### Informes y Reportes Técnicos
 
 <ul>
 <img src="/resources/lecocarpus.jpg" width=300 style="float: right; margin-top:0rem; margin-bottom:5rem; padding:0rem; border: 1px solid;"/>
 <li style="margin-bottom:2rem;">Caracterización e identificación de los hongos asociados a
-las semillas y a la rizósfera de Lecocarpuslecocarpoides en Punta Manzanillo.<a href="/resources/informe_hongos.pdf"> <i>PDF</i></a></i>
+las semillas y a la rizósfera de Lecocarpus lecocarpoides en Punta Manzanillo.<a href="/resources/informe_hongos.pdf"> <i>PDF</i></a></i>
 
 <img src="/resources/seymour.jpg" width=250 style="float: right; margin-top:2rem; margin-bottom:0rem; padding:0em; border: 1px solid;"/>
 
@@ -62,9 +62,9 @@ Descarga guía en [*PDF*](/resources/manual_r.pdf)
 
 ### Instructivo para elaboración de informes al donante y a la DPNG
 
-El reporte al donante es un reporte trimestral que debe ser entregado en idioma Inglés, en formato Word.El reporte actual ha sido establecido que debe tener un máximo de 5 páginas de 1 solo lado. 
+El reporte al donante es un reporte trimestral que debe ser entregado en idioma Inglés, en formato Word. Para el reporte actual se ha establecido un máximo de 5 páginas de 1 solo lado. 
 
-La primera página debe tener un resumen ejecutivo (Executive summary) de 1 hoja A4 y debe estar en letra tamaño 10pt. Mínimo. Este resumen debe tener los key points, problemas, retos, conclusión, etc.
+La primera página debe tener un resumen ejecutivo (Executive summary) de 1 hoja A4 y debe estar en letra tamaño mínimo 10pt. Este resumen debe tener los key points, problemas, retos, conclusión, etc.
 
 Descargar en [PDF](/manuals/chapter1/Instructivo_Informes_Donante_y_DPNG.pdf)
 

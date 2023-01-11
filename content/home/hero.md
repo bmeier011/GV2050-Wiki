@@ -11,12 +11,12 @@ design:
     text_color_light: true
 cta:
   url: resources/
-  label: Get Started
+  label: Inicio
   icon_pack: fas
   icon: box
 cta_alt:
   url: resources/
-  label: View Documentation
+  label: Ver Documentación
 cta_note:
   label: >-
     <span class="js-github-release" data-repo="wowchemy/wowchemy-hugo-modules">
@@ -28,7 +28,7 @@ cta_note:
 Bienvenido a la comunidad virtual del programa GV2050, aquí encontrarás:
 <ul>
 <li>Manuales de uso de equipos
-<li>Información a cerca de proyectos
+<li>Información acerca de proyectos
 <li>Protocolos
 <li>Herramientas
 <li>Links a publicaciones
