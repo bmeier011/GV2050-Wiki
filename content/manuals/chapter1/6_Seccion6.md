@@ -7,5 +7,5 @@ weight: 7
 ---
 <p style="text-align: justify; margin-top:-1.5rem;">Para una adecuado manejo del vivero, realizar una mantención constante. En el siguiente manual se detallan aspectos a inspeccionar.</p>
 
-Revisar versión completa en [PDF](/manuals/manual_equipo/Mantenimiento_de_invernadero.pdf)
+Revisar versión completa en [PDF](/manuals/chapter1/Mantenimiento_de_invernadero.pdf)
 
