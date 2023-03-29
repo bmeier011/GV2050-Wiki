@@ -6,3 +6,7 @@ type: book
 weight: 9
 ---
 Revisar versión completa en [PDF](/manuals/manual_equipo/pluviometro.pdf)
+
+Importantes: 
+-Colocar el sobre de silica gel en el compartimiento donde se guarda el datalogger del pluviómetro
+-Cambiar baterias cada 6 meses

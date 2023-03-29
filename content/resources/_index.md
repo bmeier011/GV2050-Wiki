@@ -8,7 +8,7 @@ El GV2050 ofrece los siguientes recursos disponibles.
 ### Informes y Reportes Técnicos
 
 <ul>
-<img src="/resources/lecocarpus.jpg" width=300 style="float: right; margin-top:0rem; margin-bottom:5rem; padding:0rem; border: 1px solid;"/>
+<img src="/resources/lecocarpus.jpg" width=300 style="float: right; margin-top:0rem; margin-bottom:0rem; padding:0rem; border: 1px solid;"/>
 <li style="margin-bottom:2rem;">Caracterización e identificación de los hongos asociados a
 las semillas y a la rizósfera de Lecocarpus lecocarpoides en Punta Manzanillo.<a href="/resources/informe_hongos.pdf"> <i>PDF</i></a></i>
 

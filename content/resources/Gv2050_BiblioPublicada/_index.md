@@ -12,6 +12,8 @@ weight: 4
 
 ## Artículos
 
++ **Oct 2022** - Adoption of Sustainable Agriculture Practices through Participatory Research: A Case Study on Galapagos Islands Farmers Using Water-Saving Technologies [(PDF)](plants-11-02848.pdf)
+
 + **Oct 2021** - Cost‐effectiveness of water‐saving technologies for restoration of tropical dry forest: A case study from the Galapagos Islands, Ecuador [(PDF)](cost.pdf)
 
 + **Dec 2019** - Effectiveness of water-saving technologies during early stages of restoration of endemic Opuntia cacti in the Galápagos Islands, Ecuador [(PDF)](SciPaper_Opuntia.pdf)
