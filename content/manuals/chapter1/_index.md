@@ -16,67 +16,18 @@ Descargar version en [(PDF_english)](/manuals/chapter1/Manual_vol_english.pdf) [
 `Colaboración`: Luka Negoita, Esme Plunkett, Paúl Mayorga, Rebecca Ditgen, Anna Calle y Liliana Jaramillo
 
 
-+ [(**INTRODUCCIÓN AL GALÁPAGOS VERDE 2050**)](https://gv2050program-wiki.netlify.app/manuals/chapter1/1_seccion1/)
++ [***INTRODUCCIÓN AL GALÁPAGOS VERDE 2050***](https://gv2050program-wiki.netlify.app/manuals/chapter1/1_seccion1/)
 
-***INTRODUCCIÓN AL GALÁPAGOS VERDE 2050*** ###(https://gv2050program-wiki.netlify.app/manuals/chapter1/1_seccion1/) 
 
-+ #### Bienvenido al proyecto Galápagos Verde 2050
++ [***TRABAJANDO EN CAMPO***](https://gv2050program-wiki.netlify.app/manuals/chapter1/2_seccion2/)
 
-+ #### Historia del GV2050
++ [***CULTIVO Y CUIDADO DE PLANTAS EN LA FCD***](https://gv2050program-wiki.netlify.app/manuals/chapter1/3_seccion3/)
 
-+ #### Plan GV2050
++ [***Carga/Descarga de Waypoints de GPS***](https://gv2050program-wiki.netlify.app/manuals/chapter1/4_seccion4/)
 
-### ***TRABAJANDO EN CAMPO***
++ [***Compartir archivos mediante NAS***](https://gv2050program-wiki.netlify.app/manuals/chapter1/5_seccion5/)
 
-- ####  Preparándose para el trabajo de campo
++ [***Manual de colecta de hongos HERBARIO CDS***](https://gv2050program-wiki.netlify.app/manuals/chapter1/7_seccion7/)
+
+
   
-+ ####  Sembrando con tecnologías ahorradoras de agua
-  
-  - Materiales necesarios para sembrar con estas tecnologías 
-  
-+ #### Tecnología Groasis Waterboxx® 
-      
-  - Componentes Waterboxx
-  - Sembrando con la tecnología Groasis Waterboxx
-  - Retiro de Waterboxx
-  
-+ #### Tecnología Cocoon
-      
-  - Plantando con la Tecnología Cocoon
-  
-+ #### Sembrando con Tecnología Growboxx 
-+ #### Tecnología de Hidrogel
-+ #### Sembrando plantas control
-
-  - Recopilación de datos y tabletas
-  - Para primer monitoreo 
-  - Instrucciones de monitoreo
-  - Guia para monitoreo y diferentes formas de crecimiento
-  - Actividades de mantenimiento
-  
-+ #### Protocolo de análisis de productividad en agricultura
-
-### ***CULTIVO Y CUIDADO DE PLANTAS EN LA FCD***
-
-- #### Cuidado de plantas en el laboratorio  GV2050 y vivero
-  
-### ***OTROS***
-
-+ #### Automóvil eléctrico GV2050 
-  
-  - Antes de usar
-  - Para almacenar
-  - Otros aspectos a considerar 
-  - Cómo cambiar un neumático
-      
-+ #### Gafas de realidad virtual GV2050
-  
-  - Preparación
-      
-+ #### Carga/descarga de waypoints de unidad GPS
-  
-  - Cargar coordenadas con etiquetas de código (ID de plantación) a unidad GPS
-
-### _**OTROS RECURSOS**_
-
-### _**REFERENCIAS**_
