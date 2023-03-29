@@ -16,6 +16,8 @@ Descargar version en [(PDF_english)](/manuals/chapter1/Manual_vol_english.pdf) [
 `Colaboración`: Luka Negoita, Esme Plunkett, Paúl Mayorga, Rebecca Ditgen, Anna Calle y Liliana Jaramillo
 
 
++ [(**INTRODUCCIÓN AL GALÁPAGOS VERDE 2050**)](https://gv2050program-wiki.netlify.app/manuals/chapter1/1_seccion1/)
+
 ***INTRODUCCIÓN AL GALÁPAGOS VERDE 2050*** ###(https://gv2050program-wiki.netlify.app/manuals/chapter1/1_seccion1/) 
 
 + #### Bienvenido al proyecto Galápagos Verde 2050
