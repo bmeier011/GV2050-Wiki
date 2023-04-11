@@ -18,3 +18,9 @@ la misma forma mantener informado al público en general acerca del objetivo
 del Programa Galápagos Verde 2050 (GV2050) y su avance.
 
 Descargar documento [PDF](/manuals/manual_plataforma/manual_admin_2016.pdf)
+
+**Manual de Usuario de la Aplicación Móvil del Proyecto Galápagos Verde 2050**
+
+También la herramienta virtual tiene su versión Móvil
+
+Descargar documento [PDF](/manuals/manual_plataforma/manual_aplicacion_final.pdf)

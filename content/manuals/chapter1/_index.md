@@ -27,6 +27,8 @@ Descargar version en [(PDF_english)](/manuals/chapter1/Manual_vol_english.pdf) [
 
 + [***Compartir archivos mediante NAS***](https://gv2050program-wiki.netlify.app/manuals/chapter1/5_seccion5/)
 
++ [***Manual Mantención Vivero Floreana**** CDS***](https://gv2050program-wiki.netlify.app/manuals/chapter1/6_seccion6/)
+
 + [***Manual de colecta de hongos HERBARIO CDS***](https://gv2050program-wiki.netlify.app/manuals/chapter1/7_seccion7/)
 
 

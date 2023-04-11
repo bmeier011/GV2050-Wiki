@@ -14,22 +14,35 @@ weight: 4
 
 + **Oct 2022** - Adoption of Sustainable Agriculture Practices through Participatory Research: A Case Study on Galapagos Islands Farmers Using Water-Saving Technologies [(PDF)](plants-11-02848.pdf)
 
++ **Apr 2022** - Rediscovery of the Galapagos endemic Lecocarpus leptolobus (Asteraceae), its morphology, distribution and taxonomy relative to its congeners [(PDF)](Tye_Jaramillo2022.pdf)
+
 + **Oct 2021** - Cost‐effectiveness of water‐saving technologies for restoration of tropical dry forest: A case study from the Galapagos Islands, Ecuador [(PDF)](cost.pdf)
 
 + **Dec 2019** - Effectiveness of water-saving technologies during early stages of restoration of endemic Opuntia cacti in the Galápagos Islands, Ecuador [(PDF)](SciPaper_Opuntia.pdf)
 
-## Libros y capitulos en libros.
+## Libros y capitulos en libros
 
-+ **Apr 2020** - The Galapagos Verde 2050 Project [(PDF_english)](GVProject.pdf) [(PDF_español)](GVProyecto.pdf)
-+ **Nov 2017** - Siembrame en tu jardin / Kanpa sisapampapi tarpuway / Plant me in your garden. Jardines nativos para la conservación de Galapagos.[(PDF)](SiembraJardin.pdf)
-+ **Sep 2015** - Galapagos Verde 2050: An opportunity to restore degraded ecosystems and promote sustainable agriculture in the Archipelago [(PDF_english)](GVReport_Engl.pdf) [(PDF_español)](GVReport_Esp.pdf)
-+ **Feb 2014** - Galápagos Verde 2050 [(PDF)](GV2050.pdf)
++ **Apr 2020** - The Galapagos Verde 2050 Project [(EN)](GVProject.pdf) [(ES)](GVProyecto.pdf)
++ **Nov 2017** - Siembrame en tu jardin / Kanpa sisapampapi tarpuway / Plant me in your garden. Jardines nativos para la conservación de Galapagos.[(ES)](SiembraJardin.pdf)
++ **Sep 2015** - Galapagos Verde 2050: An opportunity to restore degraded ecosystems and promote sustainable agriculture in the Archipelago [(EN)](GVReport_Engl.pdf) [(ES)](GVReport_Esp.pdf)
++ **Feb 2014** - Galápagos Verde 2050 [(ES)](GV2050.pdf)
++ **Apr 2021** - Guía de Semillas y Propágulos de Galápagos [(ES)](GuiaSemillas.pdf)
+[(EN)](SEED_GUIDE.pdf)
+
+## Atlas de especies Nativas e Invasoras de Galápagos
++ **Darwiniothamnus tenuifolius** - [(ES)](Darwiniothamnus_Atlas.pdf)
++ **Galvezia leucantha** - [(ES)](Galvezia_Atlas.pdf)
++ **Lecocarpus leptobulus** - [(ES)](Lecocarpus_Atlas.pdf)
++ **Opuntia megasperma var. orientalis** - [(ES)](Opuntia_Atlas.pdf)
++ **Scalesia affinis** - [(ES)](Scalesia_Atlas.pdf)
+
 
 ## Guías y planes de acción
 
-+ **Apr 2021** - Guía de Semillas y Propágulos de Galápagos [(PDF)](GuiaSemillas.pdf)
-+ **May 2018** - Galápagos Verde 2050 (POSTER) [(PDF)](GV2050_poster.pdf)
-+ **Oct 2017** - Action Plan for the Ecological Restoration of Baltra and Plaza Sur Islands [(PDF)](PlanAccion_Baltra) (english)
++ **May 2018** - Galápagos Verde 2050 (POSTER) [(ES)](GV2050_poster.pdf)
++ **Oct 2017** - Action Plan for the Ecological Restoration of Baltra and Plaza Sur Islands [(ES)](PlanAccion_Baltra) (english)
++ **CONFIRMAR FECHA** - Tríptico Galapagos Verde 2050 [(ES)](triptico_es.pdf)
+[(EN)](triptico_en.pdf)
 
 ## Blogs 
 + **Jul 2022** - Leaving my mark in the Galapagos as a GV2050 volunteer! [(Link)](https://www.darwinfoundation.org/en/blog-articles/820-leaving-my-mark-in-the-galapagos-as-a-gv2050-volunteer)
