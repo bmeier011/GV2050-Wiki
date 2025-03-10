@@ -7,15 +7,24 @@ El GV2050 ofrece los siguientes recursos disponibles.
 
 ### Informes y Reportes Técnicos
 
-<ul>
-<img src="/resources/lecocarpus.jpg" width=300 style="float: right; margin-top:0rem; margin-bottom:0rem; padding:0rem; border: 1px solid;"/>
-<li style="margin-bottom:2rem;">Caracterización e identificación de los hongos asociados a
-las semillas y a la rizósfera de Lecocarpus lecocarpoides en Punta Manzanillo.<a href="/resources/informe_hongos.pdf"> <i>PDF</i></a></i>
+<ul style="list-style: none; padding: 0;">
+  <li style="display: flex; align-items: center; gap: 15px; margin-bottom: 1rem;">
+    <div style="flex: 1;">
+      Caracterización e identificación de los hongos asociados a las semillas y a la rizósfera de <i>Lecocarpus lecocarpoides</i> en Punta Manzanillo.
+      <a href="/resources/informe_hongos.pdf"> <i>PDF</i></a>
+    </div>
+    <img src="/resources/lecocarpus.jpg" width="300" style="border: 1px solid;">
+  </li>
 
-<img src="/resources/seymour.jpg" width=250 style="float: right; margin-top:0rem; margin-bottom:0rem; padding:0em; border: 1px solid;"/>
-
-<li style="margin-top:2rem;">Seymour Norte como ecosistema de referencia para restaurar Baltra - Reporte técnico. <a href="/resources/reporte_seymour.pdf"> <i>PDF</i></a>
+  <li style="display: flex; align-items: center; gap: 15px; margin-bottom: 1rem;">
+    <div style="flex: 1;">
+      Seymour Norte como ecosistema de referencia para restaurar Baltra - Reporte técnico.
+      <a href="/resources/reporte_seymour.pdf"> <i>PDF</i></a>
+    </div>
+    <img src="/resources/seymour.jpg" width="250" style="border: 1px solid;">
+  </li>
 </ul>
+
 
 ### Protocolos para viajes de campo y campamentos en las Islas Galápagos
 <img src="/resources/protocolo.jpg" width=250 style="margin-bottom: 1rem; margin-top: 0rem;"/>
