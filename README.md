@@ -7,11 +7,11 @@ https://alison.rbind.io/blog/2020-12-new-year-new-blogdown
 
 <!--<p align="center"><a href="https://wowchemy.com" target="_blank" rel="noopener"><img src="https://sourcethemes.com/academic/img/logo_200px.png" alt="Wowchemy Website Builder"></a></p>-->
 
-# Book Template for [Wowchemy Website Builder](https://wowchemy.com)
+# Book Template for [Wowchemy Website Builder](https://hugoblox.com) now called HUGO
 
 The **Book Template** empowers you to create **product documentation**, **digital books**, **personal notes**, and **knowledge bases**.
 
-[Check out the latest demo](https://book-starter.netlify.app/) of what you'll get in less than 10 minutes, or [view the showcase](https://wowchemy.com/user-stories/).
+[Check out the latest demo](https://book-starter.netlify.app/) of what you'll get in less than 10 minutes, or [view the showcase](https://hugoblox.com/creators/).
 
 [**Wowchemy**](https://github.com/wowchemy/wowchemy-hugo-modules) makes it easy to create a beautiful website for free using Markdown, Jupyter, or RStudio. Customize anything on your site with widgets, themes, and language packs.
 
