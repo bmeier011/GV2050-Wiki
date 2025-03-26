@@ -1,9 +1,10 @@
+# GV2050-Wiki
+This repository contains all the files for the correct functioning of the GV2050 Wiki.
+
+[Link wiki GV2050 actualizada](https://gv2050program-wiki.netlify.app)
 
 ### Used this for reference on setting up the site:
 https://alison.rbind.io/blog/2020-12-new-year-new-blogdown
-
-
-
 
 <!--<p align="center"><a href="https://wowchemy.com" target="_blank" rel="noopener"><img src="https://sourcethemes.com/academic/img/logo_200px.png" alt="Wowchemy Website Builder"></a></p>-->
 
