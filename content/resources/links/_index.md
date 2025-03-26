@@ -14,11 +14,11 @@ Con el objetivo de hacer tu interacción con el GV2050 más eficiente, te sugeri
 
 <li>Sitio web del GV2050
 
-[https://gv2050-wiki.netlify.app/](https://gv2050-wiki.netlify.app/)
+[http://www.galapagosverde2050.com/](http://www.galapagosverde2050.com/)
 
 <li>Wiki del GV2050
 
-[http://www.galapagosverde2050.com/](http://www.galapagosverde2050.com/)
+[https://gv2050-wiki.netlify.app/](https://gv2050-wiki.netlify.app/)
 
 <li>RestoR
 
